@@ -1,0 +1,501 @@
+Model Number,Company,Display Size,Display Type,Display Protection Type,Total Storage,Storage Type,Total RAM,RAM Type,Processor,Battery Capacity,Front Camera MP,Front Dual Camera MP,Back Camera MP,Wide Camera MP,Micro Camera MP,Body Type,Body Back,Wireless Charging,NFC Support,Price (USD)
+Samsung-8322,Samsung,6.1,OLED,Ion-strengthened glass,64,NVMe,4,LPDDR5,A15 Bionic,5500,8,8.0,12,8,5,Plastic,Plastic,True,False,882
+OnePlus-4212,OnePlus,5.4,IPS LCD,Gorilla Glass,64,NVMe,6,LPDDR5,A15 Bionic,5000,8,16.0,108,8,12,Polycarbonate,Plastic,True,False,1083
+Samsung-2628,Samsung,6.7,Liquid Retina,Ion-strengthened glass,512,NVMe,8,LPDDR5,A16 Bionic,5000,16,12.0,64,16,12,Metallic,Polycarbonate back,False,False,762
+OnePlus-3154,OnePlus,6.7,OLED,Ceramic Shield,256,NVMe,12,LPDDR4X,A16 Bionic,6000,20,16.0,16,16,5,Metallic,Polycarbonate back,True,False,884
+Xiaomi-3983,Xiaomi,6.5,IPS LCD,Ceramic Shield,128,NVMe,6,LPDDR4X,A17 Pro,4000,8,8.0,12,8,2,Polycarbonate,Leather back,False,False,578
+OnePlus-2912,OnePlus,6.1,Super Retina XDR,Gorilla Glass,512,NVMe,6,LPDDR5,A17 Pro,4000,16,,108,20,12,Polycarbonate,Polycarbonate back,True,True,836
+Xiaomi-8151,Xiaomi,7.0,IPS LCD,Gorilla Glass,512,UFS 3.1,12,LPDDR4X,A16 Bionic,6000,12,,12,12,8,Plastic,Leather back,False,False,417
+Google-7008,Google,6.5,IPS LCD,Ion-strengthened glass,128,NVMe,6,LPDDR4X,A17 Pro,6000,16,,108,8,5,Metallic,Polycarbonate back,True,True,1346
+Apple-1366,Apple,6.1,OLED,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A16 Bionic,5500,20,8.0,108,8,5,Glass,Polycarbonate back,True,False,1452
+Google-7574,Google,6.5,Super Retina XDR,Ion-strengthened glass,128,UFS 3.1,12,LPDDR4X,A16 Bionic,4000,12,16.0,12,12,8,Plastic,Polycarbonate back,False,False,1034
+Samsung-5145,Samsung,6.7,Super Retina XDR,Gorilla Glass,256,UFS 3.1,6,LPDDR5,A13 Bionic,5000,8,12.0,108,20,12,Plastic,Glass back,False,False,861
+Samsung-4456,Samsung,6.7,Liquid Retina,Scratch-resistant glass,64,NVMe,4,LPDDR5,A14 Bionic,4500,16,8.0,64,20,8,Plastic,Glass back,True,False,1757
+Google-5567,Google,5.4,Liquid Retina,Ceramic Shield,64,NVMe,8,LPDDR4X,A13 Bionic,5500,12,8.0,64,8,5,Plastic,Leather back,True,True,1034
+OnePlus-1578,OnePlus,5.4,Liquid Retina,Gorilla Glass,256,UFS 3.1,6,LPDDR5,A15 Bionic,4000,8,,16,16,2,Polycarbonate,Plastic,True,False,839
+Samsung-9700,Samsung,5.4,OLED,Ion-strengthened glass,512,eMMC 5.1,4,LPDDR4X,A13 Bionic,6000,16,16.0,16,8,5,Plastic,Polycarbonate back,False,False,991
+Xiaomi-8722,Xiaomi,6.5,IPS LCD,Ion-strengthened glass,512,NVMe,6,LPDDR4X,A14 Bionic,4000,8,8.0,48,20,5,Polycarbonate,Plastic,False,True,390
+OnePlus-6510,OnePlus,7.0,Liquid Retina,Ion-strengthened glass,256,NVMe,4,LPDDR4X,A15 Bionic,4500,20,12.0,12,8,12,Metallic,Polycarbonate back,False,False,456
+OnePlus-6691,OnePlus,6.5,Liquid Retina,Scratch-resistant glass,256,UFS 3.1,12,LPDDR4X,A13 Bionic,4500,20,12.0,12,8,12,Plastic,Glass back,False,False,439
+Apple-5250,Apple,5.4,OLED,Gorilla Glass,512,eMMC 5.1,12,LPDDR5,A16 Bionic,6000,16,,16,20,5,Glass,Leather back,True,False,886
+OnePlus-1430,OnePlus,6.7,OLED,Ceramic Shield,64,NVMe,12,LPDDR5,A14 Bionic,4500,12,8.0,16,16,8,Metallic,Plastic,False,True,867
+OnePlus-6198,OnePlus,7.0,Super Retina XDR,Scratch-resistant glass,64,UFS 3.1,6,LPDDR4X,A17 Pro,4500,8,12.0,64,8,5,Polycarbonate,Polycarbonate back,True,False,883
+Apple-9300,Apple,6.7,IPS LCD,Ion-strengthened glass,256,eMMC 5.1,8,LPDDR5,A16 Bionic,5000,8,8.0,16,20,5,Glass,Plastic,False,False,889
+Apple-2342,Apple,5.4,IPS LCD,Scratch-resistant glass,128,NVMe,12,LPDDR5,A17 Pro,6000,12,16.0,108,12,8,Polycarbonate,Polycarbonate back,True,True,1328
+OnePlus-7799,OnePlus,7.0,Super Retina XDR,Ion-strengthened glass,128,eMMC 5.1,12,LPDDR4X,A14 Bionic,4000,16,,64,8,5,Metallic,Polycarbonate back,True,False,918
+Samsung-5733,Samsung,5.4,OLED,Ion-strengthened glass,128,eMMC 5.1,12,LPDDR5,A13 Bionic,5000,12,12.0,48,8,12,Plastic,Polycarbonate back,False,True,1029
+OnePlus-3891,OnePlus,7.0,IPS LCD,Gorilla Glass,256,NVMe,12,LPDDR5,A13 Bionic,4000,8,16.0,64,20,2,Glass,Polycarbonate back,True,True,1041
+OnePlus-6992,OnePlus,7.0,IPS LCD,Ion-strengthened glass,1024,UFS 3.1,4,LPDDR4X,A17 Pro,6000,12,8.0,64,8,5,Polycarbonate,Plastic,False,True,794
+OnePlus-5877,OnePlus,7.0,Liquid Retina,Ceramic Shield,128,UFS 3.1,12,LPDDR4X,A15 Bionic,5000,12,16.0,108,12,2,Metallic,Leather back,False,True,708
+Google-9447,Google,6.5,IPS LCD,Scratch-resistant glass,512,eMMC 5.1,6,LPDDR4X,A13 Bionic,4500,8,16.0,108,20,5,Metallic,Plastic,True,True,669
+Samsung-2610,Samsung,6.5,Liquid Retina,Ceramic Shield,128,UFS 3.1,8,LPDDR4X,A16 Bionic,5500,8,8.0,48,16,8,Glass,Polycarbonate back,False,True,860
+OnePlus-1498,OnePlus,5.4,OLED,Ceramic Shield,256,eMMC 5.1,6,LPDDR5,A15 Bionic,5000,8,,16,12,5,Plastic,Glass back,True,False,573
+Google-5798,Google,6.7,OLED,Ceramic Shield,64,UFS 3.1,12,LPDDR4X,A13 Bionic,5000,16,16.0,64,20,5,Glass,Glass back,True,False,1330
+Google-9233,Google,6.5,IPS LCD,Ion-strengthened glass,512,eMMC 5.1,8,LPDDR5,A16 Bionic,4000,12,12.0,12,16,8,Polycarbonate,Leather back,False,False,1010
+Samsung-6313,Samsung,7.0,Super Retina XDR,Scratch-resistant glass,1024,UFS 3.1,6,LPDDR5,A17 Pro,4000,16,12.0,12,20,2,Plastic,Glass back,True,True,1370
+Apple-5441,Apple,6.5,IPS LCD,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR5,A13 Bionic,6000,16,,48,8,12,Metallic,Polycarbonate back,True,False,1329
+Google-7791,Google,6.5,Super Retina XDR,Gorilla Glass,256,NVMe,8,LPDDR5,A13 Bionic,6000,8,,12,8,12,Metallic,Leather back,True,True,1362
+Xiaomi-1546,Xiaomi,6.1,Liquid Retina,Scratch-resistant glass,256,NVMe,8,LPDDR5,A17 Pro,5000,12,16.0,64,12,5,Metallic,Polycarbonate back,False,True,839
+OnePlus-1666,OnePlus,7.0,OLED,Scratch-resistant glass,256,NVMe,8,LPDDR4X,A15 Bionic,6000,8,12.0,48,8,8,Glass,Glass back,True,False,813
+Xiaomi-9142,Xiaomi,5.4,Super Retina XDR,Ion-strengthened glass,1024,eMMC 5.1,4,LPDDR4X,A16 Bionic,4500,12,8.0,16,16,2,Plastic,Polycarbonate back,False,True,824
+Google-6515,Google,7.0,OLED,Gorilla Glass,64,UFS 3.1,6,LPDDR4X,A16 Bionic,4500,16,8.0,64,12,12,Plastic,Polycarbonate back,True,False,833
+OnePlus-3689,OnePlus,6.1,Liquid Retina,Gorilla Glass,128,eMMC 5.1,6,LPDDR5,A16 Bionic,4000,20,8.0,12,16,2,Plastic,Polycarbonate back,True,True,921
+Xiaomi-6476,Xiaomi,6.1,Liquid Retina,Ceramic Shield,1024,UFS 3.1,6,LPDDR4X,A13 Bionic,5000,12,16.0,48,20,2,Glass,Leather back,True,True,378
+Apple-6462,Apple,6.5,IPS LCD,Gorilla Glass,512,UFS 3.1,12,LPDDR5,A17 Pro,5000,20,,108,20,8,Polycarbonate,Plastic,True,True,1610
+Xiaomi-5307,Xiaomi,6.1,OLED,Ceramic Shield,1024,UFS 3.1,6,LPDDR5,A13 Bionic,4500,16,12.0,108,8,2,Plastic,Glass back,False,False,299
+OnePlus-5800,OnePlus,7.0,OLED,Gorilla Glass,1024,NVMe,8,LPDDR4X,A16 Bionic,4500,16,16.0,64,16,8,Plastic,Leather back,False,False,1043
+Google-3676,Google,6.7,IPS LCD,Scratch-resistant glass,512,UFS 3.1,6,LPDDR4X,A15 Bionic,6000,8,,16,12,5,Glass,Leather back,True,True,860
+Xiaomi-7248,Xiaomi,7.0,OLED,Ceramic Shield,64,NVMe,8,LPDDR5,A14 Bionic,5500,16,,64,20,8,Glass,Polycarbonate back,False,False,428
+Xiaomi-2806,Xiaomi,7.0,OLED,Ceramic Shield,1024,NVMe,12,LPDDR4X,A17 Pro,4000,12,16.0,64,8,2,Polycarbonate,Plastic,False,False,915
+Samsung-5967,Samsung,6.5,Liquid Retina,Ceramic Shield,64,UFS 3.1,8,LPDDR4X,A13 Bionic,4000,12,8.0,48,16,2,Plastic,Plastic,False,False,922
+Google-5042,Google,6.1,IPS LCD,Gorilla Glass,512,NVMe,4,LPDDR5,A16 Bionic,4500,16,12.0,16,16,8,Polycarbonate,Polycarbonate back,False,True,1110
+Google-8032,Google,6.1,OLED,Ion-strengthened glass,512,eMMC 5.1,8,LPDDR4X,A16 Bionic,6000,20,8.0,16,12,2,Polycarbonate,Leather back,True,False,1408
+Samsung-4140,Samsung,6.1,OLED,Ion-strengthened glass,512,NVMe,4,LPDDR4X,A13 Bionic,4500,16,,12,12,2,Polycarbonate,Leather back,True,True,592
+Samsung-7166,Samsung,7.0,IPS LCD,Gorilla Glass,128,eMMC 5.1,4,LPDDR5,A16 Bionic,6000,16,8.0,12,12,8,Polycarbonate,Plastic,False,True,806
+Xiaomi-4938,Xiaomi,7.0,Super Retina XDR,Ion-strengthened glass,128,UFS 3.1,8,LPDDR5,A16 Bionic,4500,20,,64,12,2,Polycarbonate,Glass back,True,False,225
+Google-7731,Google,7.0,Super Retina XDR,Ceramic Shield,128,eMMC 5.1,8,LPDDR5,A17 Pro,4500,20,,64,8,12,Polycarbonate,Polycarbonate back,False,True,1090
+Google-4081,Google,6.7,Liquid Retina,Ion-strengthened glass,64,eMMC 5.1,4,LPDDR4X,A17 Pro,4000,20,16.0,108,12,2,Plastic,Glass back,False,False,644
+Google-5240,Google,6.5,Super Retina XDR,Gorilla Glass,512,NVMe,4,LPDDR4X,A15 Bionic,4500,12,,16,16,8,Glass,Plastic,True,False,1249
+OnePlus-9984,OnePlus,6.5,IPS LCD,Ceramic Shield,128,NVMe,6,LPDDR4X,A16 Bionic,4000,8,12.0,108,16,2,Metallic,Leather back,False,False,675
+Xiaomi-9451,Xiaomi,6.5,Super Retina XDR,Scratch-resistant glass,256,eMMC 5.1,4,LPDDR5,A14 Bionic,5000,20,8.0,16,12,5,Plastic,Plastic,True,False,968
+Samsung-8261,Samsung,6.5,IPS LCD,Scratch-resistant glass,128,eMMC 5.1,6,LPDDR5,A16 Bionic,6000,20,12.0,108,20,5,Glass,Glass back,False,False,992
+Apple-3862,Apple,7.0,Super Retina XDR,Ceramic Shield,512,eMMC 5.1,12,LPDDR5,A15 Bionic,5000,12,16.0,48,16,5,Polycarbonate,Plastic,False,False,1209
+Xiaomi-3178,Xiaomi,6.7,OLED,Scratch-resistant glass,128,NVMe,6,LPDDR4X,A14 Bionic,4000,12,,12,20,5,Polycarbonate,Plastic,True,True,554
+Samsung-2801,Samsung,5.4,IPS LCD,Scratch-resistant glass,1024,eMMC 5.1,8,LPDDR4X,A17 Pro,6000,12,16.0,12,16,5,Polycarbonate,Polycarbonate back,False,True,1253
+Samsung-9127,Samsung,6.7,OLED,Ion-strengthened glass,1024,eMMC 5.1,6,LPDDR5,A16 Bionic,4000,16,16.0,64,12,5,Plastic,Plastic,True,False,690
+Google-2773,Google,5.4,Liquid Retina,Scratch-resistant glass,512,eMMC 5.1,6,LPDDR4X,A15 Bionic,5000,20,,48,20,8,Plastic,Polycarbonate back,False,True,1059
+Apple-9267,Apple,6.1,OLED,Scratch-resistant glass,128,UFS 3.1,8,LPDDR4X,A13 Bionic,4000,16,16.0,12,20,2,Polycarbonate,Plastic,True,False,1425
+Samsung-5795,Samsung,7.0,OLED,Ceramic Shield,256,UFS 3.1,4,LPDDR4X,A17 Pro,5500,16,,108,12,2,Metallic,Leather back,True,True,741
+OnePlus-4609,OnePlus,7.0,OLED,Scratch-resistant glass,256,NVMe,12,LPDDR5,A17 Pro,6000,8,8.0,48,20,2,Glass,Polycarbonate back,True,False,620
+Samsung-3074,Samsung,6.1,OLED,Ceramic Shield,1024,NVMe,6,LPDDR4X,A15 Bionic,5000,8,12.0,48,12,8,Metallic,Polycarbonate back,False,True,678
+Xiaomi-8057,Xiaomi,5.4,Super Retina XDR,Ion-strengthened glass,256,eMMC 5.1,12,LPDDR4X,A14 Bionic,5000,20,16.0,108,12,8,Metallic,Polycarbonate back,True,False,870
+OnePlus-7762,OnePlus,6.1,Liquid Retina,Ion-strengthened glass,1024,NVMe,6,LPDDR5,A16 Bionic,5000,12,12.0,108,16,5,Plastic,Leather back,True,False,755
+Apple-5527,Apple,6.1,OLED,Ion-strengthened glass,256,NVMe,8,LPDDR5,A16 Bionic,5000,16,16.0,16,8,8,Polycarbonate,Plastic,True,False,1284
+OnePlus-8972,OnePlus,7.0,IPS LCD,Gorilla Glass,128,UFS 3.1,12,LPDDR5,A13 Bionic,4000,20,16.0,12,8,8,Glass,Plastic,True,False,1020
+OnePlus-9229,OnePlus,5.4,OLED,Scratch-resistant glass,64,NVMe,4,LPDDR5,A13 Bionic,4500,20,16.0,16,16,2,Glass,Leather back,False,False,701
+Samsung-5181,Samsung,6.7,Liquid Retina,Ceramic Shield,512,eMMC 5.1,8,LPDDR5,A13 Bionic,4500,16,8.0,48,16,2,Plastic,Glass back,True,False,679
+Xiaomi-9054,Xiaomi,6.7,Liquid Retina,Ion-strengthened glass,64,UFS 3.1,12,LPDDR5,A16 Bionic,5000,8,,16,20,5,Glass,Leather back,False,False,453
+OnePlus-6287,OnePlus,6.1,IPS LCD,Scratch-resistant glass,1024,eMMC 5.1,8,LPDDR4X,A16 Bionic,6000,12,,16,12,5,Polycarbonate,Leather back,False,False,909
+Google-5110,Google,5.4,Liquid Retina,Scratch-resistant glass,64,NVMe,4,LPDDR4X,A17 Pro,6000,16,,12,20,12,Metallic,Plastic,True,True,960
+Samsung-4069,Samsung,6.5,OLED,Ceramic Shield,512,UFS 3.1,6,LPDDR5,A16 Bionic,5000,16,12.0,12,8,5,Metallic,Leather back,False,True,516
+Samsung-5167,Samsung,5.4,IPS LCD,Gorilla Glass,512,eMMC 5.1,6,LPDDR5,A13 Bionic,5500,16,12.0,64,20,5,Glass,Leather back,False,True,1412
+Xiaomi-3109,Xiaomi,6.5,Super Retina XDR,Ceramic Shield,256,eMMC 5.1,4,LPDDR4X,A14 Bionic,4500,16,,64,12,12,Metallic,Plastic,True,True,558
+Samsung-4082,Samsung,7.0,Liquid Retina,Ceramic Shield,512,NVMe,6,LPDDR4X,A16 Bionic,4500,8,,48,16,5,Glass,Plastic,True,True,1500
+Apple-6113,Apple,7.0,OLED,Scratch-resistant glass,64,UFS 3.1,8,LPDDR5,A13 Bionic,5500,12,8.0,108,12,2,Plastic,Leather back,False,True,799
+Google-5520,Google,6.1,OLED,Gorilla Glass,1024,NVMe,6,LPDDR5,A15 Bionic,4500,8,8.0,64,16,12,Polycarbonate,Leather back,True,False,1462
+Samsung-9997,Samsung,6.1,IPS LCD,Scratch-resistant glass,1024,NVMe,12,LPDDR5,A16 Bionic,4000,8,8.0,12,8,5,Polycarbonate,Glass back,True,True,630
+Xiaomi-9597,Xiaomi,6.7,Liquid Retina,Ion-strengthened glass,128,UFS 3.1,8,LPDDR5,A15 Bionic,5000,16,12.0,64,12,5,Glass,Plastic,True,False,406
+Apple-8712,Apple,6.7,Super Retina XDR,Ceramic Shield,512,eMMC 5.1,6,LPDDR5,A15 Bionic,4500,12,12.0,48,20,12,Glass,Glass back,False,False,1903
+OnePlus-8102,OnePlus,6.1,IPS LCD,Ion-strengthened glass,64,NVMe,6,LPDDR4X,A13 Bionic,4000,12,8.0,108,8,12,Plastic,Leather back,False,False,1089
+Apple-9355,Apple,5.4,IPS LCD,Gorilla Glass,1024,UFS 3.1,12,LPDDR4X,A13 Bionic,4000,8,12.0,48,12,8,Glass,Polycarbonate back,True,False,763
+OnePlus-2810,OnePlus,5.4,OLED,Ceramic Shield,256,UFS 3.1,12,LPDDR4X,A14 Bionic,4000,8,16.0,108,12,8,Metallic,Plastic,True,True,734
+Samsung-6299,Samsung,6.1,IPS LCD,Ion-strengthened glass,64,NVMe,6,LPDDR4X,A14 Bionic,6000,8,12.0,108,12,2,Plastic,Polycarbonate back,False,False,930
+Google-7481,Google,5.4,IPS LCD,Gorilla Glass,256,eMMC 5.1,6,LPDDR4X,A13 Bionic,4500,12,8.0,12,12,2,Plastic,Leather back,False,True,1249
+OnePlus-6430,OnePlus,6.7,OLED,Gorilla Glass,512,NVMe,12,LPDDR5,A13 Bionic,4000,20,8.0,48,8,8,Plastic,Leather back,True,False,1187
+Apple-1430,Apple,6.1,Liquid Retina,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR5,A14 Bionic,5500,12,16.0,108,12,12,Plastic,Leather back,False,False,1905
+Samsung-6488,Samsung,6.5,OLED,Gorilla Glass,256,NVMe,8,LPDDR4X,A15 Bionic,5500,16,12.0,108,16,5,Metallic,Leather back,False,False,1491
+Apple-1943,Apple,7.0,Liquid Retina,Ceramic Shield,1024,eMMC 5.1,4,LPDDR5,A17 Pro,6000,16,16.0,108,8,12,Polycarbonate,Plastic,False,True,1049
+Apple-6962,Apple,6.5,Liquid Retina,Gorilla Glass,512,eMMC 5.1,4,LPDDR5,A14 Bionic,5500,12,8.0,48,12,5,Glass,Glass back,True,False,1235
+OnePlus-3376,OnePlus,7.0,OLED,Ion-strengthened glass,64,NVMe,8,LPDDR5,A14 Bionic,4000,20,,48,16,2,Metallic,Glass back,False,False,978
+Google-5060,Google,6.5,Liquid Retina,Scratch-resistant glass,512,eMMC 5.1,8,LPDDR5,A13 Bionic,5500,20,8.0,48,12,12,Plastic,Glass back,True,True,712
+OnePlus-5675,OnePlus,6.1,IPS LCD,Gorilla Glass,1024,NVMe,6,LPDDR5,A13 Bionic,5500,20,8.0,16,8,5,Metallic,Leather back,False,False,1189
+Google-3140,Google,6.1,IPS LCD,Scratch-resistant glass,64,NVMe,6,LPDDR5,A13 Bionic,4500,20,8.0,16,20,2,Glass,Leather back,True,True,1111
+OnePlus-8031,OnePlus,5.4,IPS LCD,Ceramic Shield,256,NVMe,6,LPDDR4X,A15 Bionic,6000,20,16.0,12,16,5,Plastic,Plastic,True,True,1186
+OnePlus-4412,OnePlus,7.0,Super Retina XDR,Ion-strengthened glass,1024,UFS 3.1,4,LPDDR5,A17 Pro,4500,8,16.0,64,20,5,Glass,Glass back,True,False,661
+Xiaomi-1301,Xiaomi,6.5,OLED,Gorilla Glass,256,eMMC 5.1,6,LPDDR5,A15 Bionic,5500,12,8.0,48,8,8,Glass,Plastic,True,True,289
+Xiaomi-2255,Xiaomi,6.7,Liquid Retina,Ion-strengthened glass,64,NVMe,4,LPDDR5,A13 Bionic,5500,8,,12,12,2,Glass,Polycarbonate back,False,False,388
+Samsung-4895,Samsung,7.0,Liquid Retina,Gorilla Glass,64,NVMe,8,LPDDR4X,A14 Bionic,5000,16,16.0,16,20,8,Metallic,Glass back,False,False,539
+Samsung-1682,Samsung,7.0,Liquid Retina,Gorilla Glass,256,UFS 3.1,8,LPDDR5,A14 Bionic,5000,16,,16,20,12,Plastic,Plastic,True,True,732
+Xiaomi-7745,Xiaomi,6.1,Liquid Retina,Ceramic Shield,128,UFS 3.1,12,LPDDR4X,A17 Pro,4500,12,,108,20,5,Metallic,Leather back,True,True,696
+OnePlus-8763,OnePlus,7.0,OLED,Gorilla Glass,64,eMMC 5.1,6,LPDDR4X,A16 Bionic,6000,8,16.0,64,16,5,Polycarbonate,Leather back,False,False,989
+Google-5168,Google,5.4,OLED,Ion-strengthened glass,1024,UFS 3.1,8,LPDDR5,A14 Bionic,6000,16,12.0,16,16,8,Glass,Polycarbonate back,True,True,716
+Google-8195,Google,6.5,IPS LCD,Scratch-resistant glass,1024,NVMe,8,LPDDR5,A13 Bionic,4500,8,12.0,12,8,12,Glass,Polycarbonate back,True,True,752
+Apple-6751,Apple,6.5,OLED,Ceramic Shield,64,UFS 3.1,12,LPDDR5,A16 Bionic,5500,12,16.0,48,12,12,Plastic,Plastic,True,False,1320
+Samsung-9998,Samsung,6.7,OLED,Ion-strengthened glass,64,UFS 3.1,4,LPDDR5,A17 Pro,5000,16,,64,16,8,Metallic,Leather back,False,False,1563
+OnePlus-9229,OnePlus,6.5,OLED,Ion-strengthened glass,256,NVMe,4,LPDDR5,A13 Bionic,4500,20,,16,12,5,Glass,Plastic,True,True,896
+Samsung-3498,Samsung,6.7,Liquid Retina,Gorilla Glass,1024,UFS 3.1,8,LPDDR5,A15 Bionic,6000,8,12.0,12,12,5,Polycarbonate,Glass back,True,False,1713
+Google-7014,Google,6.1,IPS LCD,Gorilla Glass,256,NVMe,12,LPDDR4X,A13 Bionic,5500,8,8.0,16,16,2,Metallic,Leather back,True,False,1327
+Xiaomi-2249,Xiaomi,5.4,Super Retina XDR,Ion-strengthened glass,1024,UFS 3.1,12,LPDDR5,A17 Pro,5000,12,,108,20,5,Metallic,Glass back,False,True,445
+Google-3683,Google,6.1,Super Retina XDR,Gorilla Glass,512,eMMC 5.1,4,LPDDR4X,A17 Pro,4500,20,8.0,16,12,2,Plastic,Plastic,True,True,755
+Google-6957,Google,6.7,Liquid Retina,Ion-strengthened glass,1024,eMMC 5.1,6,LPDDR5,A16 Bionic,6000,12,,108,20,8,Plastic,Glass back,False,True,1423
+Apple-7189,Apple,6.5,OLED,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR5,A15 Bionic,5500,8,8.0,48,12,5,Plastic,Glass back,True,True,1689
+Apple-3666,Apple,6.7,Super Retina XDR,Ceramic Shield,128,NVMe,4,LPDDR5,A14 Bionic,6000,20,12.0,108,20,12,Polycarbonate,Polycarbonate back,False,False,1630
+Google-9735,Google,7.0,IPS LCD,Gorilla Glass,512,eMMC 5.1,6,LPDDR4X,A13 Bionic,5500,16,16.0,48,8,5,Glass,Glass back,True,True,775
+OnePlus-3892,OnePlus,6.1,Liquid Retina,Ceramic Shield,128,NVMe,6,LPDDR4X,A17 Pro,6000,20,16.0,64,12,5,Metallic,Leather back,False,True,723
+Xiaomi-4536,Xiaomi,6.5,IPS LCD,Ceramic Shield,1024,UFS 3.1,8,LPDDR5,A14 Bionic,5500,12,,12,8,2,Metallic,Plastic,True,True,794
+OnePlus-3323,OnePlus,5.4,OLED,Ceramic Shield,128,UFS 3.1,12,LPDDR4X,A13 Bionic,4000,16,,12,20,5,Polycarbonate,Leather back,True,False,674
+OnePlus-7817,OnePlus,6.5,IPS LCD,Gorilla Glass,256,UFS 3.1,4,LPDDR4X,A16 Bionic,4500,16,8.0,48,12,5,Metallic,Glass back,True,False,695
+Samsung-6377,Samsung,6.1,Super Retina XDR,Scratch-resistant glass,128,UFS 3.1,4,LPDDR5,A14 Bionic,5500,12,16.0,64,8,5,Polycarbonate,Leather back,True,True,1405
+Apple-5716,Apple,6.7,Super Retina XDR,Ion-strengthened glass,256,NVMe,6,LPDDR5,A13 Bionic,5000,8,,108,12,8,Plastic,Leather back,False,True,1479
+Google-6640,Google,7.0,IPS LCD,Ion-strengthened glass,128,NVMe,4,LPDDR5,A13 Bionic,4500,8,,64,16,12,Metallic,Leather back,True,False,1458
+Samsung-3877,Samsung,5.4,IPS LCD,Gorilla Glass,1024,eMMC 5.1,12,LPDDR5,A16 Bionic,6000,20,16.0,12,16,5,Polycarbonate,Polycarbonate back,True,False,720
+Google-1788,Google,5.4,Liquid Retina,Ion-strengthened glass,512,UFS 3.1,6,LPDDR4X,A14 Bionic,6000,20,16.0,64,12,8,Metallic,Polycarbonate back,True,False,1484
+OnePlus-2218,OnePlus,6.1,IPS LCD,Ceramic Shield,512,eMMC 5.1,12,LPDDR5,A14 Bionic,6000,16,12.0,48,8,2,Polycarbonate,Glass back,True,True,583
+Samsung-9060,Samsung,6.1,IPS LCD,Scratch-resistant glass,64,UFS 3.1,4,LPDDR5,A15 Bionic,5500,16,8.0,108,8,5,Glass,Polycarbonate back,False,True,853
+Apple-6688,Apple,6.7,Liquid Retina,Ceramic Shield,64,eMMC 5.1,4,LPDDR5,A15 Bionic,5000,20,16.0,12,12,2,Glass,Polycarbonate back,True,True,1120
+Google-4032,Google,5.4,OLED,Scratch-resistant glass,1024,eMMC 5.1,12,LPDDR5,A17 Pro,6000,12,12.0,64,16,12,Plastic,Leather back,True,True,1497
+Xiaomi-9862,Xiaomi,7.0,OLED,Ion-strengthened glass,128,UFS 3.1,4,LPDDR5,A17 Pro,6000,12,8.0,48,16,2,Metallic,Plastic,True,True,553
+Apple-3259,Apple,5.4,Super Retina XDR,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A14 Bionic,4500,12,12.0,12,8,12,Metallic,Leather back,True,False,1099
+Samsung-4808,Samsung,6.7,OLED,Scratch-resistant glass,128,eMMC 5.1,6,LPDDR4X,A13 Bionic,6000,12,12.0,12,12,8,Polycarbonate,Glass back,False,True,871
+Xiaomi-3704,Xiaomi,5.4,IPS LCD,Ion-strengthened glass,512,eMMC 5.1,12,LPDDR5,A14 Bionic,4500,20,,16,12,2,Polycarbonate,Glass back,True,True,812
+Google-8772,Google,6.7,Super Retina XDR,Ion-strengthened glass,512,NVMe,4,LPDDR4X,A13 Bionic,6000,12,8.0,16,8,5,Polycarbonate,Leather back,True,True,999
+Apple-3020,Apple,6.7,IPS LCD,Ion-strengthened glass,128,NVMe,4,LPDDR4X,A13 Bionic,4500,20,,16,16,12,Plastic,Plastic,True,True,1332
+Xiaomi-4979,Xiaomi,6.7,Super Retina XDR,Scratch-resistant glass,256,eMMC 5.1,4,LPDDR4X,A16 Bionic,5500,20,16.0,48,16,8,Glass,Leather back,True,True,818
+Samsung-7372,Samsung,6.7,IPS LCD,Gorilla Glass,256,UFS 3.1,6,LPDDR5,A14 Bionic,4000,20,12.0,12,20,8,Plastic,Leather back,True,True,1311
+Google-7228,Google,5.4,Super Retina XDR,Ceramic Shield,512,UFS 3.1,6,LPDDR5,A15 Bionic,4000,20,8.0,108,20,5,Metallic,Leather back,False,True,824
+OnePlus-7441,OnePlus,6.7,Super Retina XDR,Ceramic Shield,512,UFS 3.1,12,LPDDR4X,A17 Pro,4000,16,8.0,108,20,12,Metallic,Leather back,False,True,457
+Xiaomi-7176,Xiaomi,6.7,OLED,Gorilla Glass,512,UFS 3.1,12,LPDDR4X,A16 Bionic,6000,12,12.0,64,12,8,Metallic,Leather back,False,False,496
+Samsung-8964,Samsung,5.4,IPS LCD,Ion-strengthened glass,256,UFS 3.1,8,LPDDR5,A17 Pro,5500,8,8.0,48,20,8,Plastic,Polycarbonate back,False,False,1265
+Google-6593,Google,6.5,IPS LCD,Scratch-resistant glass,64,UFS 3.1,6,LPDDR5,A15 Bionic,5500,12,12.0,12,8,5,Polycarbonate,Plastic,True,True,1148
+Xiaomi-5425,Xiaomi,5.4,OLED,Scratch-resistant glass,1024,eMMC 5.1,4,LPDDR5,A17 Pro,4000,12,,12,8,5,Glass,Polycarbonate back,False,True,387
+Samsung-9079,Samsung,6.1,Liquid Retina,Gorilla Glass,1024,UFS 3.1,6,LPDDR5,A13 Bionic,5000,20,,64,12,8,Polycarbonate,Plastic,False,True,1375
+Samsung-4948,Samsung,6.7,OLED,Ceramic Shield,64,UFS 3.1,6,LPDDR4X,A17 Pro,5000,16,,64,20,8,Glass,Leather back,True,True,1279
+Apple-9191,Apple,6.5,IPS LCD,Ion-strengthened glass,64,UFS 3.1,8,LPDDR5,A17 Pro,4500,20,8.0,48,16,5,Polycarbonate,Plastic,False,False,1340
+Google-3482,Google,7.0,Liquid Retina,Gorilla Glass,256,NVMe,12,LPDDR4X,A13 Bionic,4500,16,16.0,64,20,12,Plastic,Plastic,True,False,1015
+OnePlus-7142,OnePlus,6.5,Super Retina XDR,Ceramic Shield,1024,NVMe,8,LPDDR5,A15 Bionic,5000,12,12.0,108,16,8,Glass,Plastic,False,True,1062
+Google-4716,Google,7.0,OLED,Ion-strengthened glass,128,UFS 3.1,6,LPDDR4X,A17 Pro,5500,16,16.0,108,12,12,Polycarbonate,Polycarbonate back,True,False,1269
+Apple-7849,Apple,6.7,Super Retina XDR,Scratch-resistant glass,64,UFS 3.1,12,LPDDR4X,A14 Bionic,4500,20,,64,16,8,Metallic,Polycarbonate back,False,False,1940
+OnePlus-1266,OnePlus,6.5,IPS LCD,Ion-strengthened glass,512,NVMe,8,LPDDR4X,A17 Pro,4500,20,16.0,64,12,8,Metallic,Polycarbonate back,True,True,418
+Samsung-4570,Samsung,6.1,Liquid Retina,Gorilla Glass,128,eMMC 5.1,6,LPDDR5,A13 Bionic,6000,20,,108,16,8,Glass,Leather back,False,False,1622
+Apple-3583,Apple,5.4,Liquid Retina,Ion-strengthened glass,1024,UFS 3.1,6,LPDDR4X,A15 Bionic,4000,8,12.0,48,16,8,Polycarbonate,Leather back,False,False,1486
+Samsung-1254,Samsung,6.5,Super Retina XDR,Scratch-resistant glass,1024,eMMC 5.1,12,LPDDR5,A17 Pro,5000,16,8.0,16,16,2,Glass,Polycarbonate back,True,True,1418
+OnePlus-8098,OnePlus,6.7,IPS LCD,Ion-strengthened glass,1024,UFS 3.1,8,LPDDR5,A13 Bionic,5500,8,8.0,64,16,5,Glass,Glass back,False,True,620
+OnePlus-8919,OnePlus,6.1,Liquid Retina,Ion-strengthened glass,256,NVMe,8,LPDDR5,A16 Bionic,5000,16,8.0,108,8,2,Glass,Plastic,False,False,411
+OnePlus-5288,OnePlus,7.0,OLED,Scratch-resistant glass,256,eMMC 5.1,4,LPDDR4X,A15 Bionic,5000,16,8.0,12,12,8,Polycarbonate,Plastic,True,True,986
+Google-9677,Google,6.7,Liquid Retina,Scratch-resistant glass,1024,UFS 3.1,4,LPDDR4X,A15 Bionic,5000,12,,12,16,2,Glass,Glass back,False,False,1441
+Google-1767,Google,7.0,Super Retina XDR,Ion-strengthened glass,1024,NVMe,12,LPDDR5,A17 Pro,4500,16,,108,16,5,Metallic,Polycarbonate back,False,False,613
+Samsung-5128,Samsung,5.4,OLED,Ion-strengthened glass,256,NVMe,12,LPDDR4X,A15 Bionic,4500,8,12.0,108,16,8,Polycarbonate,Leather back,True,False,1574
+Google-3562,Google,6.1,Super Retina XDR,Gorilla Glass,1024,UFS 3.1,12,LPDDR5,A17 Pro,6000,12,16.0,64,8,8,Glass,Polycarbonate back,False,True,857
+Google-2034,Google,6.1,Liquid Retina,Ceramic Shield,256,eMMC 5.1,4,LPDDR4X,A15 Bionic,6000,12,12.0,48,16,2,Polycarbonate,Glass back,True,True,701
+Apple-6854,Apple,7.0,OLED,Ceramic Shield,1024,NVMe,8,LPDDR5,A13 Bionic,4500,16,,64,8,8,Metallic,Glass back,True,True,1067
+Google-1590,Google,5.4,IPS LCD,Scratch-resistant glass,1024,eMMC 5.1,12,LPDDR5,A13 Bionic,5500,20,12.0,12,16,8,Metallic,Polycarbonate back,False,True,989
+OnePlus-5525,OnePlus,5.4,Liquid Retina,Gorilla Glass,128,UFS 3.1,8,LPDDR4X,A15 Bionic,4000,16,,16,12,12,Plastic,Polycarbonate back,True,True,577
+Apple-7636,Apple,6.5,OLED,Ion-strengthened glass,256,UFS 3.1,4,LPDDR5,A14 Bionic,5500,8,,64,12,8,Glass,Glass back,True,True,1734
+OnePlus-5153,OnePlus,5.4,Super Retina XDR,Ion-strengthened glass,1024,NVMe,12,LPDDR4X,A16 Bionic,6000,8,12.0,108,12,2,Metallic,Glass back,True,False,824
+Apple-6134,Apple,6.1,IPS LCD,Ion-strengthened glass,512,eMMC 5.1,8,LPDDR4X,A17 Pro,5500,20,12.0,12,16,12,Glass,Plastic,False,False,1960
+Apple-1661,Apple,6.7,IPS LCD,Ceramic Shield,256,UFS 3.1,8,LPDDR4X,A16 Bionic,5500,20,,16,20,5,Plastic,Plastic,True,False,822
+Apple-6903,Apple,6.7,Super Retina XDR,Gorilla Glass,512,NVMe,6,LPDDR4X,A14 Bionic,6000,8,12.0,48,8,8,Plastic,Plastic,True,True,1644
+Apple-5048,Apple,6.5,Super Retina XDR,Gorilla Glass,256,eMMC 5.1,8,LPDDR5,A13 Bionic,4000,12,8.0,48,20,2,Metallic,Polycarbonate back,False,True,1101
+OnePlus-3315,OnePlus,6.5,OLED,Ion-strengthened glass,512,UFS 3.1,6,LPDDR4X,A16 Bionic,4500,12,12.0,108,8,5,Plastic,Glass back,True,False,483
+Samsung-8462,Samsung,7.0,OLED,Ion-strengthened glass,128,eMMC 5.1,4,LPDDR5,A16 Bionic,5000,16,,48,8,5,Metallic,Leather back,True,False,1026
+Samsung-2817,Samsung,6.5,Super Retina XDR,Ion-strengthened glass,128,eMMC 5.1,8,LPDDR4X,A13 Bionic,5500,16,16.0,12,20,2,Plastic,Polycarbonate back,True,False,1423
+Apple-6397,Apple,6.5,IPS LCD,Scratch-resistant glass,512,NVMe,4,LPDDR5,A13 Bionic,5000,8,16.0,108,20,12,Metallic,Leather back,True,True,1821
+Apple-1833,Apple,5.4,Liquid Retina,Ceramic Shield,1024,UFS 3.1,12,LPDDR5,A13 Bionic,5000,12,8.0,64,12,8,Plastic,Polycarbonate back,False,True,1418
+Xiaomi-9825,Xiaomi,7.0,Super Retina XDR,Ceramic Shield,512,NVMe,12,LPDDR4X,A16 Bionic,5500,12,12.0,64,20,5,Plastic,Plastic,True,True,423
+Xiaomi-3558,Xiaomi,6.1,Liquid Retina,Gorilla Glass,256,UFS 3.1,6,LPDDR4X,A14 Bionic,4500,20,8.0,16,8,2,Polycarbonate,Leather back,False,False,233
+OnePlus-7008,OnePlus,6.7,Liquid Retina,Ceramic Shield,256,NVMe,12,LPDDR5,A15 Bionic,5000,12,,12,12,2,Metallic,Polycarbonate back,True,True,707
+Samsung-7772,Samsung,7.0,Super Retina XDR,Gorilla Glass,1024,NVMe,8,LPDDR5,A17 Pro,4000,8,12.0,12,16,5,Metallic,Polycarbonate back,True,False,536
+Apple-1180,Apple,6.5,Liquid Retina,Ceramic Shield,256,UFS 3.1,4,LPDDR4X,A17 Pro,6000,8,,108,8,5,Plastic,Polycarbonate back,True,False,1967
+Samsung-4729,Samsung,6.5,Liquid Retina,Ion-strengthened glass,256,UFS 3.1,8,LPDDR4X,A13 Bionic,5000,20,16.0,48,16,8,Plastic,Polycarbonate back,False,False,1420
+Google-3043,Google,6.7,IPS LCD,Gorilla Glass,512,UFS 3.1,8,LPDDR4X,A17 Pro,5000,16,8.0,108,16,12,Metallic,Plastic,False,True,703
+OnePlus-9614,OnePlus,7.0,OLED,Ion-strengthened glass,512,NVMe,4,LPDDR4X,A15 Bionic,6000,12,12.0,64,8,12,Plastic,Leather back,False,False,681
+OnePlus-6574,OnePlus,6.7,Liquid Retina,Scratch-resistant glass,512,eMMC 5.1,4,LPDDR5,A16 Bionic,6000,8,16.0,64,12,8,Plastic,Glass back,False,True,512
+Samsung-6308,Samsung,7.0,Liquid Retina,Gorilla Glass,256,eMMC 5.1,4,LPDDR4X,A13 Bionic,5000,20,,108,12,12,Metallic,Polycarbonate back,True,True,1789
+Xiaomi-4712,Xiaomi,6.1,Liquid Retina,Ion-strengthened glass,64,eMMC 5.1,8,LPDDR4X,A15 Bionic,6000,8,8.0,64,16,12,Plastic,Leather back,True,False,421
+Xiaomi-8342,Xiaomi,6.7,IPS LCD,Scratch-resistant glass,64,UFS 3.1,8,LPDDR4X,A15 Bionic,4000,8,,108,16,8,Polycarbonate,Plastic,True,True,437
+Apple-4382,Apple,6.5,IPS LCD,Gorilla Glass,1024,eMMC 5.1,4,LPDDR5,A15 Bionic,5500,8,16.0,48,16,12,Plastic,Plastic,True,False,1021
+Apple-9547,Apple,6.1,Super Retina XDR,Scratch-resistant glass,256,NVMe,8,LPDDR5,A16 Bionic,4000,20,16.0,64,20,12,Glass,Glass back,False,True,1601
+Google-5729,Google,6.1,IPS LCD,Ion-strengthened glass,256,UFS 3.1,8,LPDDR5,A17 Pro,4500,16,,108,16,5,Glass,Glass back,True,False,1198
+Google-6261,Google,6.1,IPS LCD,Scratch-resistant glass,1024,eMMC 5.1,6,LPDDR4X,A15 Bionic,6000,8,8.0,64,20,8,Metallic,Leather back,True,False,659
+Apple-3338,Apple,7.0,Liquid Retina,Gorilla Glass,128,eMMC 5.1,4,LPDDR4X,A17 Pro,5500,16,,108,8,12,Metallic,Leather back,False,True,831
+Samsung-7862,Samsung,6.1,Liquid Retina,Ceramic Shield,512,NVMe,12,LPDDR4X,A16 Bionic,4000,8,16.0,64,16,2,Glass,Plastic,False,False,1679
+Samsung-8718,Samsung,6.5,OLED,Scratch-resistant glass,512,NVMe,4,LPDDR5,A14 Bionic,6000,12,8.0,16,16,5,Metallic,Leather back,False,False,1440
+Google-4841,Google,5.4,OLED,Ceramic Shield,64,NVMe,4,LPDDR4X,A15 Bionic,5000,20,,16,20,12,Metallic,Polycarbonate back,False,True,1335
+Google-5096,Google,6.1,Liquid Retina,Scratch-resistant glass,1024,NVMe,12,LPDDR5,A15 Bionic,4500,12,12.0,16,8,12,Glass,Plastic,True,False,1182
+Google-5082,Google,6.1,Super Retina XDR,Ceramic Shield,64,UFS 3.1,8,LPDDR5,A15 Bionic,6000,16,8.0,12,12,12,Polycarbonate,Plastic,True,False,1234
+Xiaomi-3541,Xiaomi,6.5,OLED,Gorilla Glass,256,eMMC 5.1,12,LPDDR5,A15 Bionic,5000,8,12.0,64,8,2,Plastic,Glass back,False,True,333
+OnePlus-7379,OnePlus,6.7,Liquid Retina,Gorilla Glass,256,NVMe,12,LPDDR4X,A15 Bionic,4500,20,8.0,16,8,8,Metallic,Glass back,True,True,631
+Samsung-6887,Samsung,6.1,IPS LCD,Ceramic Shield,128,NVMe,6,LPDDR5,A13 Bionic,5500,12,8.0,12,20,8,Glass,Glass back,False,False,949
+Samsung-7429,Samsung,6.1,IPS LCD,Ceramic Shield,256,eMMC 5.1,6,LPDDR4X,A17 Pro,6000,12,16.0,16,16,8,Glass,Polycarbonate back,False,False,1014
+Samsung-8317,Samsung,6.1,OLED,Scratch-resistant glass,256,UFS 3.1,8,LPDDR5,A13 Bionic,5000,12,12.0,16,12,5,Plastic,Leather back,False,True,1248
+Samsung-1866,Samsung,6.5,Super Retina XDR,Ion-strengthened glass,512,NVMe,8,LPDDR5,A17 Pro,5000,16,16.0,48,16,12,Metallic,Leather back,False,True,920
+Google-3471,Google,5.4,IPS LCD,Gorilla Glass,64,NVMe,12,LPDDR5,A17 Pro,4500,20,16.0,48,12,2,Metallic,Glass back,False,False,1381
+Apple-5178,Apple,6.5,Liquid Retina,Scratch-resistant glass,1024,eMMC 5.1,4,LPDDR4X,A13 Bionic,5500,12,12.0,12,20,5,Glass,Polycarbonate back,False,True,1817
+Samsung-8684,Samsung,6.7,Super Retina XDR,Ion-strengthened glass,128,NVMe,12,LPDDR4X,A17 Pro,4500,16,16.0,12,20,8,Glass,Plastic,False,True,1373
+OnePlus-7136,OnePlus,6.1,Liquid Retina,Ceramic Shield,256,eMMC 5.1,6,LPDDR5,A14 Bionic,5500,12,8.0,16,8,2,Polycarbonate,Glass back,True,False,824
+OnePlus-6772,OnePlus,6.1,IPS LCD,Gorilla Glass,256,UFS 3.1,4,LPDDR5,A16 Bionic,6000,12,12.0,48,8,12,Glass,Glass back,True,True,516
+OnePlus-3872,OnePlus,6.5,Super Retina XDR,Ceramic Shield,512,NVMe,4,LPDDR4X,A16 Bionic,4500,16,16.0,64,8,12,Plastic,Polycarbonate back,False,False,1142
+OnePlus-7978,OnePlus,7.0,OLED,Ceramic Shield,1024,UFS 3.1,4,LPDDR5,A17 Pro,6000,16,,12,8,8,Polycarbonate,Leather back,True,False,657
+Google-5462,Google,5.4,OLED,Ceramic Shield,256,NVMe,12,LPDDR5,A13 Bionic,4500,20,8.0,16,20,12,Plastic,Polycarbonate back,True,True,1211
+Samsung-9403,Samsung,6.5,OLED,Ceramic Shield,1024,UFS 3.1,8,LPDDR4X,A15 Bionic,5000,12,,64,8,8,Metallic,Leather back,False,False,899
+Xiaomi-1573,Xiaomi,6.5,IPS LCD,Gorilla Glass,512,NVMe,8,LPDDR4X,A14 Bionic,6000,12,16.0,16,8,2,Glass,Glass back,False,True,496
+OnePlus-7892,OnePlus,6.5,OLED,Ceramic Shield,128,eMMC 5.1,4,LPDDR5,A14 Bionic,4500,8,8.0,48,8,8,Glass,Leather back,False,False,481
+Google-8214,Google,6.5,Super Retina XDR,Gorilla Glass,128,UFS 3.1,8,LPDDR4X,A16 Bionic,4500,12,12.0,48,16,5,Plastic,Polycarbonate back,False,True,1141
+Samsung-5590,Samsung,5.4,Super Retina XDR,Scratch-resistant glass,1024,NVMe,4,LPDDR4X,A15 Bionic,6000,8,16.0,64,16,8,Polycarbonate,Plastic,False,False,1379
+Xiaomi-5890,Xiaomi,5.4,Super Retina XDR,Scratch-resistant glass,1024,eMMC 5.1,6,LPDDR5,A15 Bionic,5500,16,8.0,12,12,5,Plastic,Plastic,False,True,772
+Apple-3196,Apple,6.5,OLED,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR5,A16 Bionic,5500,12,12.0,12,12,12,Glass,Glass back,False,True,1692
+Xiaomi-5525,Xiaomi,7.0,Liquid Retina,Gorilla Glass,1024,NVMe,8,LPDDR5,A13 Bionic,4000,8,16.0,108,20,5,Glass,Plastic,True,False,591
+Apple-3383,Apple,6.5,IPS LCD,Scratch-resistant glass,128,eMMC 5.1,12,LPDDR4X,A13 Bionic,4000,20,8.0,64,20,2,Polycarbonate,Glass back,False,False,1061
+Apple-2185,Apple,5.4,Super Retina XDR,Ceramic Shield,1024,eMMC 5.1,12,LPDDR4X,A17 Pro,4000,16,12.0,108,16,2,Glass,Polycarbonate back,False,True,1281
+Samsung-4346,Samsung,7.0,IPS LCD,Gorilla Glass,256,UFS 3.1,6,LPDDR4X,A17 Pro,5000,12,8.0,16,8,12,Plastic,Polycarbonate back,True,True,563
+Samsung-2137,Samsung,5.4,Liquid Retina,Gorilla Glass,256,UFS 3.1,12,LPDDR5,A16 Bionic,4500,12,8.0,16,16,5,Glass,Leather back,False,True,1640
+Samsung-9535,Samsung,6.5,Super Retina XDR,Ion-strengthened glass,256,NVMe,8,LPDDR4X,A13 Bionic,4500,20,,48,8,12,Glass,Leather back,True,True,1134
+Xiaomi-5120,Xiaomi,6.1,IPS LCD,Ion-strengthened glass,128,UFS 3.1,8,LPDDR4X,A16 Bionic,4000,16,12.0,48,16,8,Metallic,Polycarbonate back,False,True,533
+Apple-5640,Apple,7.0,Liquid Retina,Scratch-resistant glass,256,UFS 3.1,8,LPDDR5,A13 Bionic,5500,20,8.0,64,20,2,Metallic,Plastic,False,False,1886
+Xiaomi-1142,Xiaomi,6.5,OLED,Scratch-resistant glass,256,UFS 3.1,8,LPDDR5,A16 Bionic,5500,8,,16,16,8,Metallic,Polycarbonate back,True,False,490
+Xiaomi-4198,Xiaomi,6.5,OLED,Scratch-resistant glass,512,eMMC 5.1,8,LPDDR4X,A14 Bionic,5500,16,,64,12,2,Glass,Polycarbonate back,True,False,987
+Apple-2059,Apple,6.1,Liquid Retina,Scratch-resistant glass,128,eMMC 5.1,12,LPDDR4X,A15 Bionic,5000,20,8.0,108,12,5,Polycarbonate,Plastic,False,True,859
+OnePlus-3199,OnePlus,6.7,Liquid Retina,Gorilla Glass,128,NVMe,8,LPDDR5,A15 Bionic,5000,20,8.0,108,16,5,Metallic,Glass back,True,False,1196
+Samsung-2819,Samsung,5.4,Super Retina XDR,Ceramic Shield,64,eMMC 5.1,12,LPDDR5,A13 Bionic,6000,20,,64,12,5,Metallic,Glass back,False,False,1628
+OnePlus-8517,OnePlus,6.5,IPS LCD,Ion-strengthened glass,128,NVMe,6,LPDDR5,A16 Bionic,4500,12,12.0,12,8,2,Polycarbonate,Polycarbonate back,True,True,439
+OnePlus-1387,OnePlus,6.1,Super Retina XDR,Scratch-resistant glass,512,NVMe,6,LPDDR4X,A15 Bionic,6000,12,,48,12,12,Metallic,Glass back,False,False,1177
+Xiaomi-9484,Xiaomi,6.7,IPS LCD,Ceramic Shield,64,NVMe,12,LPDDR4X,A13 Bionic,5000,12,12.0,48,16,2,Polycarbonate,Plastic,True,True,658
+Google-2095,Google,6.5,IPS LCD,Ceramic Shield,1024,NVMe,6,LPDDR4X,A14 Bionic,5000,16,12.0,16,20,5,Polycarbonate,Polycarbonate back,False,False,1094
+OnePlus-5334,OnePlus,7.0,IPS LCD,Gorilla Glass,1024,UFS 3.1,8,LPDDR5,A16 Bionic,4500,16,8.0,48,12,5,Plastic,Polycarbonate back,True,False,448
+OnePlus-1578,OnePlus,6.7,OLED,Scratch-resistant glass,512,eMMC 5.1,4,LPDDR5,A17 Pro,5500,12,,108,16,12,Metallic,Polycarbonate back,True,False,678
+Xiaomi-1302,Xiaomi,5.4,Liquid Retina,Scratch-resistant glass,512,eMMC 5.1,6,LPDDR4X,A17 Pro,6000,8,8.0,64,12,5,Polycarbonate,Polycarbonate back,True,False,274
+Google-9924,Google,6.5,OLED,Gorilla Glass,64,NVMe,8,LPDDR4X,A16 Bionic,5500,12,16.0,108,12,8,Glass,Leather back,True,True,693
+Apple-8641,Apple,5.4,Super Retina XDR,Ceramic Shield,64,UFS 3.1,6,LPDDR5,A14 Bionic,4000,16,16.0,48,8,5,Polycarbonate,Polycarbonate back,True,False,1245
+Google-2243,Google,7.0,Liquid Retina,Scratch-resistant glass,256,NVMe,4,LPDDR5,A14 Bionic,6000,20,16.0,48,8,8,Metallic,Polycarbonate back,False,True,1347
+OnePlus-8947,OnePlus,6.7,IPS LCD,Scratch-resistant glass,1024,eMMC 5.1,8,LPDDR4X,A14 Bionic,5000,20,16.0,48,8,12,Metallic,Leather back,False,True,1052
+Apple-1653,Apple,6.5,OLED,Ceramic Shield,512,UFS 3.1,4,LPDDR5,A14 Bionic,5000,20,12.0,64,16,12,Glass,Plastic,False,True,1336
+Apple-6499,Apple,5.4,Super Retina XDR,Gorilla Glass,128,UFS 3.1,4,LPDDR5,A15 Bionic,4000,20,8.0,64,8,8,Plastic,Glass back,True,False,1337
+Apple-6319,Apple,7.0,OLED,Ceramic Shield,512,NVMe,12,LPDDR4X,A14 Bionic,4000,8,12.0,12,8,12,Metallic,Leather back,False,False,767
+OnePlus-6020,OnePlus,6.7,IPS LCD,Ion-strengthened glass,64,eMMC 5.1,8,LPDDR5,A14 Bionic,5500,8,,64,12,5,Glass,Plastic,True,False,1038
+Google-4659,Google,7.0,OLED,Ion-strengthened glass,128,NVMe,12,LPDDR4X,A15 Bionic,5000,12,8.0,48,12,8,Metallic,Glass back,False,False,1214
+Xiaomi-7255,Xiaomi,6.7,OLED,Ceramic Shield,64,UFS 3.1,4,LPDDR5,A14 Bionic,4500,8,8.0,12,8,2,Plastic,Plastic,False,False,983
+Xiaomi-8569,Xiaomi,5.4,Liquid Retina,Ion-strengthened glass,128,UFS 3.1,6,LPDDR5,A17 Pro,4500,16,8.0,16,16,8,Metallic,Polycarbonate back,False,False,311
+Google-4587,Google,6.1,Liquid Retina,Ion-strengthened glass,1024,eMMC 5.1,8,LPDDR5,A13 Bionic,4000,12,16.0,108,8,8,Glass,Polycarbonate back,False,True,1384
+Xiaomi-6448,Xiaomi,6.7,Super Retina XDR,Gorilla Glass,128,UFS 3.1,4,LPDDR4X,A14 Bionic,6000,12,12.0,16,12,5,Plastic,Polycarbonate back,True,False,354
+Xiaomi-3475,Xiaomi,7.0,OLED,Ceramic Shield,64,UFS 3.1,6,LPDDR5,A17 Pro,4000,16,12.0,12,20,5,Plastic,Polycarbonate back,True,False,425
+Xiaomi-7075,Xiaomi,6.5,Super Retina XDR,Ceramic Shield,256,NVMe,12,LPDDR4X,A16 Bionic,4000,8,12.0,108,16,8,Polycarbonate,Leather back,True,False,351
+Apple-2497,Apple,6.5,Liquid Retina,Ion-strengthened glass,64,NVMe,4,LPDDR4X,A13 Bionic,6000,16,8.0,108,20,2,Metallic,Glass back,False,False,1228
+Apple-5576,Apple,7.0,IPS LCD,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR5,A17 Pro,4500,12,8.0,48,20,8,Plastic,Leather back,False,False,1128
+Samsung-4367,Samsung,5.4,Liquid Retina,Scratch-resistant glass,512,eMMC 5.1,4,LPDDR4X,A13 Bionic,4500,16,,12,8,8,Metallic,Leather back,False,False,515
+Google-5597,Google,7.0,OLED,Ceramic Shield,512,UFS 3.1,8,LPDDR4X,A17 Pro,6000,20,16.0,64,16,8,Glass,Polycarbonate back,False,False,1153
+Samsung-8299,Samsung,6.7,Super Retina XDR,Gorilla Glass,1024,NVMe,4,LPDDR4X,A13 Bionic,5000,12,,12,20,2,Polycarbonate,Glass back,False,False,1440
+OnePlus-5154,OnePlus,6.1,OLED,Ion-strengthened glass,64,UFS 3.1,4,LPDDR4X,A13 Bionic,5500,16,,64,20,8,Polycarbonate,Polycarbonate back,False,True,894
+Apple-3357,Apple,6.1,Liquid Retina,Gorilla Glass,256,eMMC 5.1,6,LPDDR5,A13 Bionic,5000,12,8.0,64,12,5,Polycarbonate,Polycarbonate back,True,False,1203
+Google-6862,Google,5.4,IPS LCD,Gorilla Glass,1024,eMMC 5.1,12,LPDDR5,A17 Pro,5500,8,,108,20,8,Polycarbonate,Glass back,True,False,1218
+Google-2391,Google,6.1,OLED,Ion-strengthened glass,512,eMMC 5.1,8,LPDDR5,A13 Bionic,4000,12,12.0,12,20,2,Glass,Glass back,True,False,1142
+Xiaomi-7866,Xiaomi,6.5,IPS LCD,Scratch-resistant glass,256,NVMe,4,LPDDR5,A16 Bionic,6000,12,12.0,12,8,2,Glass,Glass back,True,False,351
+Apple-8267,Apple,6.5,IPS LCD,Gorilla Glass,512,NVMe,6,LPDDR4X,A15 Bionic,4000,20,,12,20,5,Polycarbonate,Glass back,False,False,963
+Xiaomi-2214,Xiaomi,6.7,Liquid Retina,Scratch-resistant glass,64,eMMC 5.1,12,LPDDR5,A16 Bionic,6000,16,12.0,12,12,12,Glass,Plastic,False,False,227
+Apple-2909,Apple,6.7,Liquid Retina,Gorilla Glass,256,eMMC 5.1,6,LPDDR4X,A14 Bionic,5000,12,8.0,64,16,2,Plastic,Plastic,True,True,1490
+Apple-3624,Apple,5.4,OLED,Gorilla Glass,128,eMMC 5.1,6,LPDDR5,A15 Bionic,4000,8,12.0,64,16,5,Metallic,Leather back,True,True,739
+Apple-8270,Apple,6.7,Super Retina XDR,Gorilla Glass,64,eMMC 5.1,8,LPDDR5,A13 Bionic,6000,12,,12,12,8,Polycarbonate,Leather back,False,True,1071
+Apple-1950,Apple,6.7,Liquid Retina,Ion-strengthened glass,1024,NVMe,8,LPDDR5,A17 Pro,5500,8,,16,16,5,Polycarbonate,Polycarbonate back,True,False,1764
+OnePlus-8419,OnePlus,6.7,Super Retina XDR,Gorilla Glass,1024,NVMe,12,LPDDR4X,A15 Bionic,4000,12,8.0,12,12,8,Polycarbonate,Glass back,False,False,1181
+Apple-4711,Apple,6.1,Liquid Retina,Ceramic Shield,1024,eMMC 5.1,6,LPDDR4X,A16 Bionic,5000,8,8.0,48,12,12,Plastic,Polycarbonate back,True,False,1635
+OnePlus-5709,OnePlus,6.5,Liquid Retina,Scratch-resistant glass,64,eMMC 5.1,6,LPDDR4X,A16 Bionic,4500,16,12.0,64,16,8,Polycarbonate,Leather back,True,True,629
+Google-1569,Google,6.5,Liquid Retina,Ion-strengthened glass,64,eMMC 5.1,12,LPDDR5,A14 Bionic,6000,12,12.0,16,20,5,Metallic,Polycarbonate back,True,False,670
+OnePlus-5164,OnePlus,6.7,IPS LCD,Ceramic Shield,256,UFS 3.1,6,LPDDR5,A17 Pro,6000,12,,48,20,8,Plastic,Leather back,True,True,1068
+OnePlus-2665,OnePlus,6.5,Super Retina XDR,Ceramic Shield,256,UFS 3.1,6,LPDDR5,A13 Bionic,6000,16,12.0,108,16,12,Glass,Glass back,True,False,1166
+OnePlus-9225,OnePlus,5.4,Liquid Retina,Gorilla Glass,256,eMMC 5.1,8,LPDDR5,A14 Bionic,5500,20,8.0,108,20,12,Plastic,Plastic,False,True,519
+Google-9828,Google,7.0,Liquid Retina,Gorilla Glass,64,eMMC 5.1,6,LPDDR5,A13 Bionic,4000,12,,48,20,8,Polycarbonate,Plastic,False,False,1273
+OnePlus-9088,OnePlus,6.5,Liquid Retina,Scratch-resistant glass,256,UFS 3.1,4,LPDDR4X,A13 Bionic,5000,8,,48,8,2,Metallic,Polycarbonate back,False,False,468
+OnePlus-6726,OnePlus,6.7,OLED,Gorilla Glass,64,NVMe,4,LPDDR5,A14 Bionic,5000,20,16.0,48,20,2,Glass,Polycarbonate back,True,True,510
+OnePlus-8886,OnePlus,6.1,Liquid Retina,Scratch-resistant glass,64,eMMC 5.1,4,LPDDR4X,A14 Bionic,6000,20,,12,8,8,Glass,Glass back,True,True,941
+Samsung-4276,Samsung,6.1,Liquid Retina,Ceramic Shield,256,NVMe,8,LPDDR4X,A13 Bionic,4500,20,16.0,108,12,8,Metallic,Plastic,False,True,1412
+Samsung-8774,Samsung,7.0,OLED,Ceramic Shield,512,NVMe,8,LPDDR5,A17 Pro,6000,12,12.0,12,12,2,Polycarbonate,Leather back,True,False,1087
+Apple-2525,Apple,7.0,Super Retina XDR,Ceramic Shield,64,eMMC 5.1,6,LPDDR4X,A13 Bionic,4500,12,12.0,108,8,8,Metallic,Glass back,True,True,1229
+Google-8887,Google,6.5,IPS LCD,Ceramic Shield,512,NVMe,12,LPDDR4X,A17 Pro,5500,12,,16,16,12,Metallic,Polycarbonate back,False,True,1064
+Samsung-3796,Samsung,6.5,IPS LCD,Scratch-resistant glass,1024,NVMe,4,LPDDR4X,A13 Bionic,4000,8,,108,16,12,Metallic,Polycarbonate back,False,True,1136
+Apple-4069,Apple,7.0,OLED,Ion-strengthened glass,128,UFS 3.1,12,LPDDR4X,A16 Bionic,4000,16,16.0,108,8,2,Metallic,Polycarbonate back,True,False,1330
+Apple-2479,Apple,5.4,IPS LCD,Ion-strengthened glass,64,UFS 3.1,8,LPDDR5,A17 Pro,4000,20,16.0,16,20,12,Plastic,Plastic,False,True,1116
+Xiaomi-5955,Xiaomi,6.7,Liquid Retina,Ceramic Shield,64,NVMe,8,LPDDR4X,A14 Bionic,4500,12,,16,8,5,Glass,Polycarbonate back,False,False,913
+Samsung-4408,Samsung,6.5,IPS LCD,Ceramic Shield,1024,UFS 3.1,4,LPDDR4X,A14 Bionic,5000,16,16.0,64,20,2,Glass,Polycarbonate back,False,True,1386
+Apple-7406,Apple,6.5,Super Retina XDR,Ion-strengthened glass,256,UFS 3.1,6,LPDDR4X,A16 Bionic,6000,12,8.0,12,12,12,Polycarbonate,Plastic,True,True,742
+Samsung-3397,Samsung,5.4,IPS LCD,Scratch-resistant glass,512,eMMC 5.1,4,LPDDR5,A15 Bionic,4500,16,12.0,16,16,8,Metallic,Glass back,False,True,518
+OnePlus-1650,OnePlus,6.5,IPS LCD,Scratch-resistant glass,128,UFS 3.1,4,LPDDR4X,A15 Bionic,4000,12,12.0,12,20,5,Metallic,Plastic,False,True,524
+Google-1274,Google,5.4,Liquid Retina,Gorilla Glass,1024,NVMe,12,LPDDR5,A13 Bionic,5500,16,,16,16,2,Metallic,Leather back,False,False,772
+Xiaomi-4499,Xiaomi,6.1,Super Retina XDR,Gorilla Glass,128,eMMC 5.1,6,LPDDR5,A13 Bionic,5000,8,,48,20,5,Polycarbonate,Plastic,True,False,689
+Xiaomi-2169,Xiaomi,6.1,OLED,Scratch-resistant glass,128,NVMe,4,LPDDR4X,A15 Bionic,4000,16,,16,12,8,Metallic,Polycarbonate back,True,False,944
+OnePlus-2547,OnePlus,6.7,Super Retina XDR,Ion-strengthened glass,256,eMMC 5.1,4,LPDDR4X,A15 Bionic,5000,20,,48,8,2,Plastic,Polycarbonate back,True,True,975
+Samsung-4604,Samsung,6.5,Liquid Retina,Ceramic Shield,1024,NVMe,4,LPDDR5,A13 Bionic,4000,16,8.0,16,12,8,Polycarbonate,Plastic,True,False,1248
+Samsung-1201,Samsung,5.4,IPS LCD,Gorilla Glass,64,NVMe,6,LPDDR4X,A15 Bionic,5500,8,8.0,48,8,2,Glass,Glass back,False,True,862
+Google-6147,Google,7.0,Super Retina XDR,Gorilla Glass,128,eMMC 5.1,8,LPDDR5,A14 Bionic,4000,12,12.0,108,20,12,Plastic,Plastic,True,False,1251
+Xiaomi-4757,Xiaomi,5.4,Super Retina XDR,Scratch-resistant glass,64,eMMC 5.1,4,LPDDR4X,A13 Bionic,4000,16,,108,8,8,Metallic,Polycarbonate back,True,False,279
+OnePlus-7601,OnePlus,7.0,Liquid Retina,Ion-strengthened glass,256,UFS 3.1,6,LPDDR4X,A14 Bionic,4500,12,12.0,64,16,12,Plastic,Glass back,False,False,980
+Apple-1656,Apple,6.1,Liquid Retina,Ceramic Shield,512,UFS 3.1,8,LPDDR4X,A16 Bionic,5000,16,8.0,48,16,8,Plastic,Glass back,False,True,1380
+Apple-3321,Apple,6.1,IPS LCD,Gorilla Glass,128,eMMC 5.1,8,LPDDR4X,A17 Pro,4500,16,8.0,64,16,12,Plastic,Plastic,True,True,1685
+Apple-7513,Apple,6.1,IPS LCD,Gorilla Glass,256,eMMC 5.1,12,LPDDR4X,A14 Bionic,5000,12,,108,16,5,Metallic,Polycarbonate back,False,False,1855
+Samsung-7300,Samsung,6.5,Liquid Retina,Ceramic Shield,512,NVMe,6,LPDDR5,A16 Bionic,6000,20,12.0,48,8,5,Metallic,Plastic,True,True,854
+Xiaomi-2794,Xiaomi,6.7,Liquid Retina,Gorilla Glass,64,UFS 3.1,6,LPDDR5,A15 Bionic,6000,12,16.0,64,8,5,Metallic,Polycarbonate back,False,True,484
+Google-4151,Google,6.5,IPS LCD,Ion-strengthened glass,1024,UFS 3.1,6,LPDDR5,A16 Bionic,5000,8,8.0,64,12,5,Metallic,Plastic,True,True,1013
+Apple-7483,Apple,5.4,Super Retina XDR,Scratch-resistant glass,128,UFS 3.1,4,LPDDR5,A13 Bionic,4000,16,16.0,16,8,8,Glass,Leather back,False,False,1835
+Apple-7832,Apple,7.0,Liquid Retina,Gorilla Glass,128,UFS 3.1,6,LPDDR5,A14 Bionic,5000,8,8.0,64,12,5,Metallic,Plastic,True,False,805
+Samsung-6870,Samsung,5.4,Super Retina XDR,Ceramic Shield,1024,eMMC 5.1,6,LPDDR5,A14 Bionic,5000,8,,16,12,8,Plastic,Glass back,False,True,1013
+Samsung-3374,Samsung,5.4,Liquid Retina,Ceramic Shield,512,eMMC 5.1,6,LPDDR5,A15 Bionic,4500,16,,16,8,12,Metallic,Plastic,True,True,1482
+Xiaomi-3916,Xiaomi,5.4,OLED,Ion-strengthened glass,512,eMMC 5.1,12,LPDDR5,A15 Bionic,4000,16,,16,16,2,Metallic,Leather back,False,False,859
+Apple-4000,Apple,6.1,IPS LCD,Ion-strengthened glass,64,NVMe,6,LPDDR5,A16 Bionic,5000,12,16.0,48,8,8,Plastic,Polycarbonate back,True,True,1302
+Samsung-8398,Samsung,6.5,Liquid Retina,Gorilla Glass,256,eMMC 5.1,12,LPDDR4X,A15 Bionic,5500,8,12.0,12,12,12,Polycarbonate,Polycarbonate back,False,True,890
+Google-2759,Google,6.7,IPS LCD,Ceramic Shield,256,NVMe,12,LPDDR5,A13 Bionic,5500,16,12.0,12,8,12,Metallic,Plastic,True,False,1047
+Samsung-2879,Samsung,6.5,Super Retina XDR,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR4X,A17 Pro,5000,8,16.0,64,12,8,Polycarbonate,Leather back,False,True,1325
+Xiaomi-5889,Xiaomi,5.4,OLED,Ion-strengthened glass,128,NVMe,6,LPDDR5,A15 Bionic,4000,20,8.0,16,20,2,Plastic,Leather back,True,True,573
+Google-5318,Google,6.7,OLED,Scratch-resistant glass,256,NVMe,4,LPDDR4X,A15 Bionic,5000,8,,108,20,8,Polycarbonate,Polycarbonate back,True,False,1091
+Google-2167,Google,7.0,Liquid Retina,Ceramic Shield,64,NVMe,12,LPDDR4X,A17 Pro,5500,20,12.0,12,8,12,Glass,Glass back,True,True,1288
+OnePlus-9169,OnePlus,5.4,IPS LCD,Ion-strengthened glass,64,UFS 3.1,4,LPDDR5,A16 Bionic,4500,20,8.0,16,20,5,Glass,Glass back,False,True,931
+Xiaomi-1007,Xiaomi,6.5,Super Retina XDR,Scratch-resistant glass,256,NVMe,6,LPDDR5,A15 Bionic,4500,8,8.0,12,12,12,Polycarbonate,Polycarbonate back,True,False,497
+Google-9311,Google,6.1,IPS LCD,Ion-strengthened glass,256,NVMe,6,LPDDR4X,A16 Bionic,4000,20,16.0,64,20,8,Plastic,Glass back,True,True,1109
+Google-2331,Google,6.7,Liquid Retina,Ceramic Shield,512,eMMC 5.1,8,LPDDR5,A16 Bionic,5500,20,16.0,48,8,5,Polycarbonate,Glass back,False,False,627
+Xiaomi-9780,Xiaomi,7.0,OLED,Ceramic Shield,1024,eMMC 5.1,12,LPDDR5,A15 Bionic,5500,16,16.0,16,8,5,Plastic,Polycarbonate back,True,True,831
+Apple-1619,Apple,6.5,OLED,Ceramic Shield,256,eMMC 5.1,6,LPDDR5,A14 Bionic,5500,8,8.0,48,12,2,Metallic,Polycarbonate back,False,False,860
+Google-8234,Google,5.4,IPS LCD,Ion-strengthened glass,512,UFS 3.1,4,LPDDR4X,A13 Bionic,5000,16,12.0,16,8,5,Plastic,Leather back,False,False,1271
+OnePlus-8344,OnePlus,5.4,Liquid Retina,Ion-strengthened glass,256,UFS 3.1,6,LPDDR4X,A17 Pro,4000,20,12.0,108,16,12,Polycarbonate,Polycarbonate back,False,False,948
+Google-7024,Google,5.4,Liquid Retina,Ion-strengthened glass,256,NVMe,6,LPDDR4X,A15 Bionic,4500,8,16.0,12,8,5,Plastic,Polycarbonate back,False,True,1069
+Samsung-5394,Samsung,6.7,OLED,Scratch-resistant glass,64,UFS 3.1,12,LPDDR4X,A14 Bionic,4500,12,16.0,64,16,2,Polycarbonate,Leather back,False,True,549
+Apple-4235,Apple,6.5,OLED,Scratch-resistant glass,64,NVMe,12,LPDDR5,A15 Bionic,6000,12,,64,12,2,Plastic,Plastic,False,False,1088
+Xiaomi-7924,Xiaomi,7.0,Super Retina XDR,Scratch-resistant glass,1024,NVMe,12,LPDDR5,A16 Bionic,5500,8,,48,8,8,Polycarbonate,Polycarbonate back,False,True,935
+OnePlus-5222,OnePlus,5.4,Super Retina XDR,Gorilla Glass,128,UFS 3.1,12,LPDDR5,A14 Bionic,5000,12,,108,20,5,Polycarbonate,Polycarbonate back,True,True,1149
+Xiaomi-7859,Xiaomi,5.4,Super Retina XDR,Scratch-resistant glass,128,NVMe,12,LPDDR4X,A14 Bionic,5000,12,8.0,108,20,8,Glass,Leather back,True,False,359
+Samsung-7982,Samsung,6.7,IPS LCD,Scratch-resistant glass,128,eMMC 5.1,4,LPDDR5,A17 Pro,5500,16,16.0,16,20,2,Plastic,Leather back,False,False,1315
+Google-7962,Google,5.4,Liquid Retina,Scratch-resistant glass,64,NVMe,12,LPDDR5,A14 Bionic,4000,12,,108,20,5,Polycarbonate,Glass back,True,False,963
+Apple-2450,Apple,6.5,IPS LCD,Gorilla Glass,512,eMMC 5.1,6,LPDDR4X,A15 Bionic,4000,16,16.0,12,12,8,Glass,Polycarbonate back,True,True,1595
+OnePlus-5850,OnePlus,6.7,IPS LCD,Ceramic Shield,128,UFS 3.1,8,LPDDR4X,A17 Pro,4000,12,16.0,12,8,8,Plastic,Polycarbonate back,True,False,1180
+OnePlus-7115,OnePlus,7.0,OLED,Ceramic Shield,128,NVMe,12,LPDDR5,A17 Pro,4500,16,8.0,48,16,5,Glass,Plastic,True,False,1120
+Apple-1576,Apple,6.7,OLED,Gorilla Glass,256,NVMe,12,LPDDR4X,A16 Bionic,4500,16,16.0,16,12,5,Metallic,Polycarbonate back,True,False,1495
+Google-3588,Google,6.7,IPS LCD,Scratch-resistant glass,512,NVMe,6,LPDDR4X,A17 Pro,4000,20,,48,20,2,Glass,Polycarbonate back,False,False,1434
+Apple-4357,Apple,7.0,OLED,Ceramic Shield,64,NVMe,6,LPDDR4X,A17 Pro,5500,16,12.0,16,16,2,Plastic,Polycarbonate back,True,True,1299
+Google-2050,Google,6.1,Liquid Retina,Ceramic Shield,512,eMMC 5.1,4,LPDDR5,A14 Bionic,5500,20,8.0,64,20,2,Plastic,Polycarbonate back,True,False,1382
+Samsung-8386,Samsung,6.5,Liquid Retina,Gorilla Glass,256,eMMC 5.1,6,LPDDR5,A16 Bionic,6000,8,,48,8,2,Polycarbonate,Leather back,False,True,1506
+Google-7723,Google,7.0,Super Retina XDR,Ion-strengthened glass,512,UFS 3.1,6,LPDDR4X,A13 Bionic,5500,12,16.0,12,20,2,Glass,Plastic,True,True,1060
+Samsung-1931,Samsung,5.4,OLED,Ceramic Shield,256,NVMe,4,LPDDR4X,A17 Pro,5500,16,8.0,48,16,5,Metallic,Polycarbonate back,True,True,599
+Xiaomi-7969,Xiaomi,5.4,OLED,Ceramic Shield,1024,NVMe,8,LPDDR4X,A14 Bionic,4000,16,,108,16,5,Plastic,Leather back,False,True,994
+OnePlus-4433,OnePlus,7.0,Liquid Retina,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR4X,A17 Pro,5500,12,12.0,64,16,5,Plastic,Polycarbonate back,False,False,451
+Xiaomi-4070,Xiaomi,6.7,Super Retina XDR,Gorilla Glass,128,UFS 3.1,6,LPDDR5,A14 Bionic,4500,20,,16,12,5,Glass,Leather back,False,True,409
+OnePlus-6958,OnePlus,6.5,Super Retina XDR,Ceramic Shield,1024,eMMC 5.1,12,LPDDR5,A17 Pro,5500,16,,64,12,8,Plastic,Plastic,True,True,931
+Apple-8040,Apple,6.1,Liquid Retina,Gorilla Glass,64,eMMC 5.1,4,LPDDR4X,A16 Bionic,5500,12,12.0,16,20,12,Glass,Glass back,False,True,976
+Google-3918,Google,6.7,IPS LCD,Ceramic Shield,256,NVMe,12,LPDDR4X,A16 Bionic,6000,16,12.0,48,8,12,Polycarbonate,Leather back,False,True,1280
+Samsung-9227,Samsung,6.7,Super Retina XDR,Scratch-resistant glass,64,eMMC 5.1,4,LPDDR5,A14 Bionic,5000,8,12.0,16,16,5,Metallic,Plastic,False,False,584
+Samsung-6711,Samsung,6.7,Super Retina XDR,Scratch-resistant glass,1024,eMMC 5.1,8,LPDDR4X,A13 Bionic,4000,16,8.0,64,20,8,Metallic,Plastic,False,True,1420
+Apple-6224,Apple,6.5,OLED,Scratch-resistant glass,512,NVMe,8,LPDDR5,A15 Bionic,6000,12,8.0,64,16,12,Glass,Leather back,False,False,927
+OnePlus-3348,OnePlus,6.7,IPS LCD,Ceramic Shield,1024,eMMC 5.1,8,LPDDR5,A14 Bionic,4000,12,12.0,64,20,12,Plastic,Leather back,True,False,546
+Xiaomi-8263,Xiaomi,6.5,OLED,Gorilla Glass,128,UFS 3.1,12,LPDDR4X,A16 Bionic,4500,16,,64,8,2,Glass,Leather back,True,False,789
+Google-8058,Google,6.7,OLED,Ion-strengthened glass,64,NVMe,6,LPDDR5,A16 Bionic,6000,8,16.0,16,12,12,Glass,Glass back,False,True,1131
+Xiaomi-7186,Xiaomi,7.0,Liquid Retina,Gorilla Glass,128,NVMe,8,LPDDR5,A13 Bionic,5500,20,16.0,48,20,12,Polycarbonate,Glass back,False,True,836
+OnePlus-3323,OnePlus,6.1,Super Retina XDR,Ion-strengthened glass,1024,UFS 3.1,8,LPDDR4X,A15 Bionic,5000,8,,48,20,5,Polycarbonate,Glass back,True,False,1140
+Google-7971,Google,5.4,IPS LCD,Ceramic Shield,1024,eMMC 5.1,4,LPDDR5,A15 Bionic,5000,12,,48,8,12,Metallic,Glass back,True,True,736
+Google-6002,Google,5.4,Liquid Retina,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A15 Bionic,5500,8,16.0,16,16,12,Glass,Plastic,True,True,1211
+OnePlus-5926,OnePlus,7.0,Liquid Retina,Gorilla Glass,256,eMMC 5.1,6,LPDDR5,A14 Bionic,4000,8,12.0,108,20,2,Polycarbonate,Glass back,False,True,422
+Samsung-3002,Samsung,6.7,IPS LCD,Gorilla Glass,128,NVMe,6,LPDDR5,A15 Bionic,5500,20,12.0,64,16,8,Metallic,Polycarbonate back,False,True,829
+Apple-3886,Apple,6.7,Super Retina XDR,Gorilla Glass,64,eMMC 5.1,12,LPDDR5,A16 Bionic,4500,20,12.0,12,16,12,Polycarbonate,Leather back,True,True,1267
+OnePlus-3893,OnePlus,6.1,OLED,Gorilla Glass,256,NVMe,4,LPDDR5,A14 Bionic,5500,12,16.0,12,16,5,Plastic,Plastic,False,False,997
+OnePlus-4550,OnePlus,6.1,OLED,Scratch-resistant glass,64,NVMe,8,LPDDR5,A16 Bionic,4500,12,,108,12,5,Polycarbonate,Polycarbonate back,False,False,691
+Apple-1969,Apple,6.1,IPS LCD,Gorilla Glass,128,UFS 3.1,12,LPDDR5,A17 Pro,4000,16,12.0,64,16,5,Polycarbonate,Plastic,False,True,1622
+Google-4241,Google,6.1,Liquid Retina,Ion-strengthened glass,64,NVMe,8,LPDDR4X,A15 Bionic,6000,12,,48,8,2,Metallic,Leather back,False,False,1158
+Samsung-7175,Samsung,6.7,OLED,Gorilla Glass,1024,eMMC 5.1,4,LPDDR4X,A13 Bionic,4500,20,12.0,64,12,8,Metallic,Glass back,False,False,574
+Xiaomi-7167,Xiaomi,7.0,Liquid Retina,Ion-strengthened glass,1024,NVMe,12,LPDDR4X,A14 Bionic,4000,8,16.0,64,20,5,Metallic,Polycarbonate back,True,True,858
+Xiaomi-9974,Xiaomi,7.0,Super Retina XDR,Scratch-resistant glass,512,NVMe,12,LPDDR5,A17 Pro,5500,16,8.0,16,12,12,Metallic,Plastic,True,False,766
+Google-4043,Google,6.5,Super Retina XDR,Gorilla Glass,128,eMMC 5.1,6,LPDDR4X,A14 Bionic,5000,8,16.0,48,8,12,Plastic,Polycarbonate back,True,False,737
+Apple-1481,Apple,7.0,Liquid Retina,Ion-strengthened glass,128,NVMe,12,LPDDR5,A16 Bionic,5000,20,,48,8,8,Plastic,Plastic,True,False,1112
+OnePlus-1794,OnePlus,5.4,Super Retina XDR,Ceramic Shield,64,NVMe,4,LPDDR5,A15 Bionic,5500,12,8.0,64,16,2,Metallic,Leather back,False,False,555
+Apple-5595,Apple,5.4,Super Retina XDR,Ceramic Shield,1024,eMMC 5.1,4,LPDDR4X,A14 Bionic,4000,16,8.0,16,8,8,Plastic,Glass back,False,True,1060
+Apple-7658,Apple,6.7,IPS LCD,Ion-strengthened glass,128,UFS 3.1,6,LPDDR4X,A17 Pro,5500,12,12.0,16,20,8,Metallic,Polycarbonate back,False,True,700
+Xiaomi-3288,Xiaomi,6.5,OLED,Ion-strengthened glass,1024,eMMC 5.1,6,LPDDR5,A17 Pro,6000,8,,64,20,12,Polycarbonate,Polycarbonate back,True,True,540
+Apple-1804,Apple,5.4,Liquid Retina,Scratch-resistant glass,128,UFS 3.1,12,LPDDR5,A14 Bionic,5000,20,16.0,48,8,5,Metallic,Leather back,False,False,1381
+OnePlus-8958,OnePlus,6.5,Liquid Retina,Ceramic Shield,512,eMMC 5.1,6,LPDDR4X,A17 Pro,4000,8,12.0,64,12,5,Metallic,Glass back,False,True,966
+Xiaomi-5516,Xiaomi,6.1,OLED,Ceramic Shield,512,NVMe,8,LPDDR4X,A14 Bionic,4000,16,12.0,64,12,2,Polycarbonate,Glass back,False,True,326
+Samsung-3486,Samsung,6.7,IPS LCD,Ion-strengthened glass,64,UFS 3.1,4,LPDDR5,A14 Bionic,5500,12,,108,20,2,Plastic,Plastic,True,False,718
+Xiaomi-1046,Xiaomi,6.5,Liquid Retina,Gorilla Glass,128,eMMC 5.1,6,LPDDR4X,A13 Bionic,4500,8,16.0,108,12,5,Metallic,Leather back,True,True,689
+Samsung-4696,Samsung,6.5,Liquid Retina,Ceramic Shield,128,eMMC 5.1,4,LPDDR5,A16 Bionic,4500,8,16.0,48,20,5,Glass,Glass back,True,False,1578
+Xiaomi-8773,Xiaomi,6.5,Super Retina XDR,Gorilla Glass,1024,eMMC 5.1,8,LPDDR4X,A13 Bionic,5500,12,,16,8,8,Metallic,Plastic,False,True,379
+OnePlus-4225,OnePlus,5.4,IPS LCD,Ceramic Shield,256,NVMe,8,LPDDR5,A13 Bionic,6000,20,8.0,16,12,8,Plastic,Leather back,True,True,527
+Samsung-4155,Samsung,6.7,Liquid Retina,Gorilla Glass,512,eMMC 5.1,6,LPDDR5,A13 Bionic,5000,20,,108,20,2,Glass,Polycarbonate back,True,False,700
+Samsung-7014,Samsung,7.0,IPS LCD,Ceramic Shield,512,eMMC 5.1,6,LPDDR4X,A15 Bionic,4500,12,12.0,48,16,5,Glass,Plastic,True,False,1617
+Xiaomi-3129,Xiaomi,6.7,Super Retina XDR,Ion-strengthened glass,64,NVMe,12,LPDDR5,A14 Bionic,5000,8,12.0,108,12,8,Polycarbonate,Plastic,True,True,893
+Samsung-9567,Samsung,6.5,OLED,Gorilla Glass,64,eMMC 5.1,6,LPDDR4X,A15 Bionic,5500,20,8.0,108,16,8,Metallic,Polycarbonate back,True,False,785
+Xiaomi-8434,Xiaomi,6.1,OLED,Ion-strengthened glass,512,UFS 3.1,12,LPDDR5,A17 Pro,5500,16,8.0,48,8,12,Metallic,Glass back,False,False,287
+Samsung-6912,Samsung,6.1,OLED,Scratch-resistant glass,64,UFS 3.1,12,LPDDR5,A16 Bionic,5500,12,8.0,64,12,12,Metallic,Plastic,False,True,1489
+OnePlus-9659,OnePlus,5.4,IPS LCD,Ceramic Shield,1024,UFS 3.1,4,LPDDR5,A17 Pro,6000,12,12.0,16,20,8,Plastic,Plastic,True,True,1166
+Google-3919,Google,7.0,IPS LCD,Scratch-resistant glass,64,eMMC 5.1,4,LPDDR5,A16 Bionic,4000,8,,108,16,8,Metallic,Plastic,True,False,1157
+Google-4466,Google,5.4,Liquid Retina,Gorilla Glass,512,UFS 3.1,12,LPDDR4X,A16 Bionic,6000,8,12.0,64,20,12,Plastic,Glass back,False,True,811
+Xiaomi-4615,Xiaomi,6.1,Liquid Retina,Ion-strengthened glass,512,UFS 3.1,4,LPDDR5,A15 Bionic,5000,16,,16,8,5,Polycarbonate,Plastic,True,True,903
+Apple-7359,Apple,6.5,OLED,Ceramic Shield,64,eMMC 5.1,4,LPDDR5,A14 Bionic,4000,16,12.0,48,20,2,Polycarbonate,Plastic,False,True,1757
+OnePlus-8538,OnePlus,6.5,OLED,Scratch-resistant glass,256,eMMC 5.1,12,LPDDR4X,A17 Pro,5500,16,8.0,64,8,2,Polycarbonate,Polycarbonate back,False,False,909
+Apple-6612,Apple,6.1,OLED,Ion-strengthened glass,1024,UFS 3.1,8,LPDDR4X,A13 Bionic,5000,16,8.0,48,16,12,Glass,Plastic,True,True,750
+Xiaomi-2914,Xiaomi,6.7,IPS LCD,Ceramic Shield,256,NVMe,4,LPDDR5,A15 Bionic,5500,16,16.0,16,20,8,Polycarbonate,Leather back,False,True,234
+Xiaomi-7100,Xiaomi,5.4,IPS LCD,Ion-strengthened glass,64,NVMe,8,LPDDR4X,A17 Pro,4500,8,16.0,16,20,12,Plastic,Leather back,True,True,687
+Samsung-5692,Samsung,6.7,IPS LCD,Ion-strengthened glass,64,UFS 3.1,8,LPDDR4X,A16 Bionic,4000,12,,16,8,5,Plastic,Polycarbonate back,True,False,1320
+Samsung-3582,Samsung,6.7,OLED,Ceramic Shield,512,UFS 3.1,6,LPDDR5,A16 Bionic,4500,12,8.0,64,16,5,Polycarbonate,Glass back,False,False,1392
+OnePlus-7002,OnePlus,7.0,OLED,Scratch-resistant glass,512,UFS 3.1,6,LPDDR4X,A17 Pro,5500,16,,108,8,2,Plastic,Glass back,True,False,921
+Samsung-6712,Samsung,6.1,Super Retina XDR,Gorilla Glass,256,UFS 3.1,8,LPDDR5,A15 Bionic,5500,8,8.0,64,8,2,Plastic,Plastic,True,True,545
+Apple-9941,Apple,5.4,Liquid Retina,Scratch-resistant glass,512,UFS 3.1,12,LPDDR4X,A13 Bionic,5000,12,12.0,64,20,5,Glass,Polycarbonate back,True,True,1721
+OnePlus-6766,OnePlus,7.0,OLED,Ceramic Shield,512,UFS 3.1,6,LPDDR4X,A15 Bionic,4000,16,12.0,64,16,12,Polycarbonate,Plastic,True,True,435
+Apple-5693,Apple,6.1,Liquid Retina,Ceramic Shield,128,eMMC 5.1,4,LPDDR4X,A16 Bionic,4000,20,,64,12,5,Glass,Glass back,False,True,1344
+OnePlus-9317,OnePlus,6.5,Liquid Retina,Scratch-resistant glass,512,eMMC 5.1,6,LPDDR4X,A14 Bionic,5500,8,12.0,108,20,5,Plastic,Glass back,False,False,837
+Samsung-1758,Samsung,6.5,IPS LCD,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR5,A15 Bionic,4000,8,12.0,64,20,2,Polycarbonate,Polycarbonate back,False,False,899
+Samsung-8954,Samsung,6.5,IPS LCD,Scratch-resistant glass,128,NVMe,12,LPDDR4X,A14 Bionic,4500,16,16.0,64,8,8,Metallic,Polycarbonate back,True,False,981
+Google-6003,Google,6.5,IPS LCD,Gorilla Glass,512,eMMC 5.1,4,LPDDR4X,A17 Pro,5000,8,,48,20,8,Plastic,Polycarbonate back,False,False,942
+Apple-4246,Apple,6.1,IPS LCD,Scratch-resistant glass,512,eMMC 5.1,4,LPDDR4X,A16 Bionic,5500,12,8.0,16,12,8,Plastic,Glass back,True,False,1346
+Xiaomi-5118,Xiaomi,6.1,OLED,Scratch-resistant glass,128,UFS 3.1,6,LPDDR4X,A16 Bionic,5000,12,12.0,48,20,12,Glass,Polycarbonate back,True,False,520
+Apple-4850,Apple,7.0,Super Retina XDR,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A15 Bionic,4000,12,8.0,12,8,5,Plastic,Leather back,True,True,963
+Google-5082,Google,6.7,OLED,Gorilla Glass,128,eMMC 5.1,8,LPDDR4X,A16 Bionic,5500,16,8.0,48,8,12,Polycarbonate,Glass back,True,True,1244
+Xiaomi-8067,Xiaomi,5.4,OLED,Scratch-resistant glass,128,NVMe,8,LPDDR4X,A15 Bionic,5000,8,12.0,48,16,5,Glass,Glass back,False,False,564
+Google-8021,Google,6.1,Liquid Retina,Scratch-resistant glass,1024,eMMC 5.1,6,LPDDR4X,A17 Pro,6000,20,12.0,48,16,12,Polycarbonate,Plastic,True,True,710
+Google-6145,Google,7.0,IPS LCD,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR4X,A15 Bionic,5000,12,16.0,64,16,12,Polycarbonate,Plastic,False,True,1340
+OnePlus-9418,OnePlus,6.7,Super Retina XDR,Gorilla Glass,256,UFS 3.1,6,LPDDR4X,A17 Pro,6000,12,12.0,16,12,12,Glass,Glass back,False,False,731
+Xiaomi-9476,Xiaomi,6.7,Super Retina XDR,Ion-strengthened glass,128,eMMC 5.1,12,LPDDR4X,A16 Bionic,5500,16,,48,16,12,Glass,Glass back,True,True,527
+Xiaomi-4518,Xiaomi,5.4,IPS LCD,Ceramic Shield,256,eMMC 5.1,4,LPDDR5,A13 Bionic,5000,12,,16,20,8,Polycarbonate,Plastic,False,True,311
+Apple-5107,Apple,6.5,Super Retina XDR,Scratch-resistant glass,512,NVMe,12,LPDDR4X,A15 Bionic,5500,20,16.0,64,8,5,Glass,Glass back,False,False,1273
+Apple-9948,Apple,6.1,OLED,Scratch-resistant glass,128,UFS 3.1,8,LPDDR5,A15 Bionic,5500,20,8.0,64,16,8,Polycarbonate,Leather back,False,False,1264
+Google-3418,Google,5.4,IPS LCD,Ceramic Shield,256,eMMC 5.1,6,LPDDR4X,A14 Bionic,5000,8,,12,16,12,Plastic,Glass back,False,False,1411
+Apple-3616,Apple,6.5,Liquid Retina,Ceramic Shield,256,UFS 3.1,12,LPDDR4X,A16 Bionic,5000,20,8.0,108,20,2,Metallic,Polycarbonate back,True,False,1083
+Apple-8762,Apple,5.4,OLED,Gorilla Glass,128,UFS 3.1,8,LPDDR5,A16 Bionic,4000,8,8.0,108,8,12,Plastic,Glass back,True,True,1664
+OnePlus-5478,OnePlus,6.7,IPS LCD,Scratch-resistant glass,1024,UFS 3.1,8,LPDDR4X,A17 Pro,4500,16,16.0,48,16,2,Polycarbonate,Leather back,True,False,1043
+Google-7085,Google,6.1,Super Retina XDR,Ion-strengthened glass,256,NVMe,12,LPDDR5,A17 Pro,5500,20,16.0,48,12,8,Polycarbonate,Polycarbonate back,False,True,706
+Samsung-6871,Samsung,6.7,Super Retina XDR,Ceramic Shield,512,UFS 3.1,8,LPDDR5,A17 Pro,4500,16,8.0,16,16,8,Glass,Leather back,False,False,1451
+Samsung-1052,Samsung,6.5,OLED,Ion-strengthened glass,64,UFS 3.1,6,LPDDR4X,A15 Bionic,5000,20,8.0,16,20,5,Glass,Leather back,False,False,706
+Samsung-2606,Samsung,7.0,Liquid Retina,Ceramic Shield,1024,eMMC 5.1,8,LPDDR5,A14 Bionic,5500,12,,64,20,8,Metallic,Leather back,True,True,936
+Apple-2330,Apple,6.1,Super Retina XDR,Gorilla Glass,128,eMMC 5.1,8,LPDDR5,A17 Pro,6000,8,16.0,48,12,8,Metallic,Plastic,False,True,820
+Google-2552,Google,6.7,Liquid Retina,Gorilla Glass,128,eMMC 5.1,12,LPDDR5,A16 Bionic,4500,16,16.0,48,20,2,Polycarbonate,Polycarbonate back,False,True,1200
+Apple-1399,Apple,5.4,IPS LCD,Scratch-resistant glass,512,UFS 3.1,12,LPDDR4X,A13 Bionic,4000,8,16.0,108,8,8,Glass,Glass back,False,False,1640
+Apple-1708,Apple,7.0,OLED,Ceramic Shield,1024,UFS 3.1,4,LPDDR5,A15 Bionic,4500,12,12.0,12,20,8,Glass,Plastic,False,True,972
+Samsung-8891,Samsung,6.1,IPS LCD,Scratch-resistant glass,256,UFS 3.1,12,LPDDR4X,A17 Pro,4500,20,,12,12,8,Metallic,Polycarbonate back,True,True,1261
+Samsung-3249,Samsung,7.0,OLED,Gorilla Glass,1024,UFS 3.1,6,LPDDR4X,A15 Bionic,5000,16,12.0,48,12,8,Polycarbonate,Glass back,True,False,1259
+Xiaomi-1671,Xiaomi,6.5,Liquid Retina,Scratch-resistant glass,512,UFS 3.1,8,LPDDR4X,A14 Bionic,5000,20,16.0,64,20,8,Metallic,Polycarbonate back,True,False,775
+Google-3614,Google,5.4,OLED,Scratch-resistant glass,128,NVMe,12,LPDDR5,A14 Bionic,6000,12,,12,20,8,Glass,Leather back,True,False,1392
+Apple-6358,Apple,6.5,IPS LCD,Ion-strengthened glass,128,eMMC 5.1,4,LPDDR5,A16 Bionic,4500,20,8.0,16,16,12,Polycarbonate,Leather back,False,True,1300
+OnePlus-5953,OnePlus,6.1,OLED,Scratch-resistant glass,256,NVMe,4,LPDDR5,A17 Pro,4000,8,12.0,12,20,5,Polycarbonate,Leather back,True,False,904
+Google-8238,Google,6.1,IPS LCD,Gorilla Glass,256,NVMe,4,LPDDR5,A15 Bionic,4500,20,,48,16,5,Plastic,Polycarbonate back,False,True,959
+Apple-1676,Apple,6.1,IPS LCD,Gorilla Glass,256,eMMC 5.1,8,LPDDR4X,A14 Bionic,4000,8,12.0,64,8,8,Plastic,Glass back,True,True,1664
+Apple-2307,Apple,6.5,Liquid Retina,Scratch-resistant glass,1024,UFS 3.1,4,LPDDR4X,A16 Bionic,5500,12,8.0,48,8,5,Metallic,Leather back,True,False,983
+Google-7150,Google,5.4,IPS LCD,Scratch-resistant glass,128,UFS 3.1,12,LPDDR4X,A14 Bionic,5500,16,,64,16,2,Polycarbonate,Polycarbonate back,False,True,614
+Xiaomi-8575,Xiaomi,7.0,IPS LCD,Gorilla Glass,64,NVMe,6,LPDDR4X,A17 Pro,4500,20,8.0,12,12,12,Glass,Polycarbonate back,True,True,959
+OnePlus-4798,OnePlus,6.1,OLED,Ion-strengthened glass,64,NVMe,4,LPDDR4X,A14 Bionic,6000,12,,64,8,5,Glass,Plastic,True,False,635
+OnePlus-4546,OnePlus,5.4,Super Retina XDR,Ion-strengthened glass,512,eMMC 5.1,4,LPDDR4X,A16 Bionic,5500,8,,108,20,5,Glass,Polycarbonate back,True,True,793
+Google-2977,Google,6.1,Super Retina XDR,Gorilla Glass,128,NVMe,12,LPDDR4X,A13 Bionic,4000,8,12.0,12,12,2,Glass,Plastic,False,True,994
+Apple-5946,Apple,6.7,OLED,Gorilla Glass,64,eMMC 5.1,4,LPDDR4X,A13 Bionic,4000,16,,108,20,12,Polycarbonate,Plastic,False,True,907
+Apple-7481,Apple,6.1,IPS LCD,Gorilla Glass,1024,eMMC 5.1,12,LPDDR4X,A16 Bionic,5500,16,16.0,48,16,8,Plastic,Leather back,False,False,979
+Apple-4718,Apple,5.4,OLED,Gorilla Glass,128,UFS 3.1,12,LPDDR4X,A15 Bionic,5500,8,8.0,16,20,5,Metallic,Plastic,False,True,710
+Apple-7624,Apple,7.0,IPS LCD,Gorilla Glass,256,UFS 3.1,4,LPDDR4X,A17 Pro,6000,20,12.0,64,12,2,Plastic,Plastic,False,True,1980
+OnePlus-6908,OnePlus,6.5,IPS LCD,Scratch-resistant glass,256,eMMC 5.1,6,LPDDR4X,A14 Bionic,4000,16,8.0,108,8,2,Plastic,Plastic,True,False,1032
+Apple-8141,Apple,6.7,Liquid Retina,Scratch-resistant glass,512,UFS 3.1,4,LPDDR5,A16 Bionic,5500,16,8.0,12,8,2,Glass,Polycarbonate back,True,False,933
+OnePlus-7640,OnePlus,6.5,Super Retina XDR,Ion-strengthened glass,64,NVMe,6,LPDDR4X,A15 Bionic,4000,8,,64,16,12,Plastic,Plastic,False,True,734
+Google-9068,Google,6.1,Super Retina XDR,Ceramic Shield,64,NVMe,4,LPDDR5,A14 Bionic,4500,16,8.0,64,12,8,Plastic,Glass back,False,True,613
+OnePlus-3087,OnePlus,7.0,OLED,Scratch-resistant glass,128,eMMC 5.1,8,LPDDR5,A17 Pro,6000,20,,48,12,12,Glass,Glass back,True,True,994
+OnePlus-3887,OnePlus,6.5,Liquid Retina,Gorilla Glass,256,UFS 3.1,12,LPDDR5,A16 Bionic,5500,16,,12,16,2,Glass,Glass back,False,False,518
+Xiaomi-3213,Xiaomi,5.4,IPS LCD,Scratch-resistant glass,1024,NVMe,8,LPDDR4X,A14 Bionic,5000,8,8.0,16,8,8,Glass,Polycarbonate back,True,False,240
+Xiaomi-1945,Xiaomi,6.7,Super Retina XDR,Scratch-resistant glass,64,eMMC 5.1,12,LPDDR4X,A16 Bionic,5500,16,16.0,12,8,2,Polycarbonate,Glass back,True,False,883
+Apple-3020,Apple,7.0,OLED,Ion-strengthened glass,256,eMMC 5.1,12,LPDDR5,A13 Bionic,4000,20,8.0,108,20,2,Glass,Polycarbonate back,True,False,819
+Apple-9747,Apple,5.4,OLED,Gorilla Glass,512,eMMC 5.1,6,LPDDR4X,A14 Bionic,5500,16,12.0,48,12,12,Glass,Leather back,True,False,902
+Xiaomi-5987,Xiaomi,6.5,Super Retina XDR,Scratch-resistant glass,128,NVMe,8,LPDDR5,A17 Pro,4500,16,,64,12,5,Glass,Polycarbonate back,False,False,302
+Xiaomi-3003,Xiaomi,7.0,IPS LCD,Ion-strengthened glass,128,eMMC 5.1,8,LPDDR4X,A13 Bionic,4500,20,16.0,16,16,2,Glass,Leather back,True,False,637
+Apple-4390,Apple,7.0,Liquid Retina,Ceramic Shield,1024,UFS 3.1,4,LPDDR4X,A16 Bionic,5000,16,,64,16,2,Plastic,Leather back,False,False,1589
+Samsung-5353,Samsung,6.5,Super Retina XDR,Ceramic Shield,512,eMMC 5.1,8,LPDDR4X,A15 Bionic,4000,8,12.0,64,16,12,Metallic,Polycarbonate back,False,False,896
+Apple-7534,Apple,5.4,Super Retina XDR,Ion-strengthened glass,64,eMMC 5.1,6,LPDDR4X,A17 Pro,4000,16,12.0,48,16,5,Polycarbonate,Glass back,False,True,1247
+Samsung-7220,Samsung,7.0,IPS LCD,Scratch-resistant glass,64,eMMC 5.1,6,LPDDR5,A14 Bionic,4000,12,16.0,64,20,8,Metallic,Plastic,True,False,1027
+Xiaomi-5300,Xiaomi,5.4,Liquid Retina,Ion-strengthened glass,128,NVMe,4,LPDDR5,A16 Bionic,5000,16,,64,12,12,Metallic,Plastic,True,False,971
+Xiaomi-9052,Xiaomi,6.7,Liquid Retina,Gorilla Glass,1024,UFS 3.1,8,LPDDR5,A13 Bionic,4000,8,16.0,12,16,5,Plastic,Plastic,False,False,398
+Xiaomi-3046,Xiaomi,7.0,Liquid Retina,Scratch-resistant glass,512,eMMC 5.1,6,LPDDR4X,A17 Pro,6000,16,12.0,12,12,5,Metallic,Polycarbonate back,True,True,398
+Xiaomi-5616,Xiaomi,6.7,OLED,Gorilla Glass,256,eMMC 5.1,8,LPDDR5,A14 Bionic,5000,8,8.0,12,20,5,Metallic,Leather back,False,True,654
+Samsung-9310,Samsung,6.1,Liquid Retina,Ceramic Shield,512,eMMC 5.1,4,LPDDR5,A15 Bionic,6000,16,,48,20,12,Plastic,Plastic,False,True,640
+OnePlus-7081,OnePlus,6.1,IPS LCD,Gorilla Glass,256,eMMC 5.1,6,LPDDR4X,A15 Bionic,5000,20,8.0,64,16,8,Polycarbonate,Glass back,False,True,988
+OnePlus-9536,OnePlus,6.1,IPS LCD,Gorilla Glass,512,UFS 3.1,4,LPDDR4X,A15 Bionic,4500,8,16.0,16,8,5,Metallic,Plastic,True,True,753
+Xiaomi-7961,Xiaomi,5.4,OLED,Ion-strengthened glass,64,UFS 3.1,12,LPDDR4X,A17 Pro,5500,8,16.0,108,12,8,Plastic,Polycarbonate back,False,True,373
+Apple-3973,Apple,6.1,Super Retina XDR,Gorilla Glass,1024,eMMC 5.1,6,LPDDR4X,A15 Bionic,6000,12,,64,20,12,Glass,Polycarbonate back,False,False,971
+Samsung-7889,Samsung,7.0,OLED,Ceramic Shield,1024,eMMC 5.1,4,LPDDR5,A15 Bionic,5000,8,,12,12,8,Polycarbonate,Plastic,True,False,1262
+Xiaomi-4216,Xiaomi,6.1,OLED,Ion-strengthened glass,512,eMMC 5.1,12,LPDDR4X,A14 Bionic,4000,16,8.0,16,20,5,Glass,Polycarbonate back,False,False,922
+Xiaomi-5336,Xiaomi,6.7,Liquid Retina,Ceramic Shield,64,NVMe,8,LPDDR5,A17 Pro,4500,20,,12,16,5,Polycarbonate,Leather back,False,True,845
+Apple-9663,Apple,7.0,OLED,Ceramic Shield,512,eMMC 5.1,4,LPDDR4X,A17 Pro,5000,12,,64,16,8,Metallic,Leather back,True,False,784
+OnePlus-1583,OnePlus,6.7,IPS LCD,Ceramic Shield,64,UFS 3.1,6,LPDDR4X,A13 Bionic,6000,20,,108,16,8,Polycarbonate,Glass back,False,False,569
+OnePlus-9402,OnePlus,6.7,IPS LCD,Scratch-resistant glass,128,UFS 3.1,12,LPDDR5,A13 Bionic,5500,12,16.0,64,8,2,Glass,Plastic,False,True,584
+Google-6424,Google,6.7,IPS LCD,Ceramic Shield,256,eMMC 5.1,8,LPDDR4X,A15 Bionic,4000,12,8.0,12,8,12,Glass,Plastic,True,True,1332
+Apple-2303,Apple,7.0,IPS LCD,Gorilla Glass,128,UFS 3.1,6,LPDDR5,A15 Bionic,6000,16,12.0,64,20,12,Glass,Polycarbonate back,False,False,1887
+Samsung-9811,Samsung,5.4,IPS LCD,Ceramic Shield,256,UFS 3.1,6,LPDDR5,A14 Bionic,6000,12,16.0,16,12,2,Plastic,Glass back,False,False,1019
+Apple-7058,Apple,6.5,Super Retina XDR,Ion-strengthened glass,128,eMMC 5.1,12,LPDDR4X,A15 Bionic,5000,20,8.0,12,8,8,Plastic,Leather back,False,True,1130
+Apple-8532,Apple,5.4,Super Retina XDR,Ion-strengthened glass,64,NVMe,4,LPDDR5,A16 Bionic,5000,8,8.0,108,8,2,Polycarbonate,Polycarbonate back,False,False,1072
+Xiaomi-5706,Xiaomi,6.1,Super Retina XDR,Gorilla Glass,128,eMMC 5.1,6,LPDDR5,A16 Bionic,5500,20,12.0,48,12,12,Glass,Polycarbonate back,False,False,565
+Samsung-7645,Samsung,6.7,Liquid Retina,Ion-strengthened glass,128,UFS 3.1,4,LPDDR4X,A16 Bionic,6000,8,8.0,16,8,2,Plastic,Glass back,False,False,728
+Google-5086,Google,7.0,OLED,Gorilla Glass,64,UFS 3.1,6,LPDDR4X,A13 Bionic,6000,12,,108,12,2,Metallic,Polycarbonate back,False,False,1036
+Samsung-1627,Samsung,6.7,Super Retina XDR,Ion-strengthened glass,1024,UFS 3.1,4,LPDDR5,A14 Bionic,4500,16,8.0,16,20,12,Polycarbonate,Glass back,False,True,1458
